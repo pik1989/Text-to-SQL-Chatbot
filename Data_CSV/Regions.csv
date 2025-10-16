@@ -1,0 +1,995 @@
+id,name,county,state_code,state,type,latitude,longitude,area_code,population,households,median_income,land_area,water_area,time_zone
+1,Auburn,Lee County,AL,Alabama,City,32.60986,-85.48078,334,62059,21767,38342,152375113,2646161,America/Chicago
+2,Birmingham,Shelby County/Jefferson County,AL,Alabama,City,33.52744,-86.79905,205,212461,89972,31061,378353942,6591013,America/Chicago
+3,Decatur,Limestone County/Morgan County,AL,Alabama,City,34.57332,-86.99214,256,55437,22294,41496,141006257,17594716,America/Chicago
+4,Dothan,Dale County/Houston County/Henry County,AL,Alabama,City,31.2337,-85.40682,334,68567,25913,42426,232166237,835468,America/Chicago
+5,Hoover,Shelby County/Jefferson County,AL,Alabama,City,33.37695,-86.80558,205,84848,32789,77146,122016784,2553332,America/Chicago
+6,Huntsville,Limestone County/Madison County,AL,Alabama,City,34.69901,-86.67298,256,190582,78554,48775,552604579,3452021,America/Chicago
+7,Mobile,Mobile County,AL,Alabama,City,30.69436,-88.04305,251,194288,76170,38776,361044263,105325210,America/Chicago
+8,Montgomery,Montgomery County,AL,Alabama,City,32.36681,-86.29997,334,200602,79866,42927,413985435,4411954,America/Chicago
+9,Tuscaloosa,Tuscaloosa County,AL,Alabama,City,33.20984,-87.56917,205,98332,32468,39351,159585773,26058465,America/Chicago
+10,Conway,Faulkner County,AR,Arkansas,City,35.0887,-92.4421,501,64980,23439,47504,119284002,648518,America/Chicago
+11,Fayetteville,Washington County,AR,Arkansas,City,36.06258,-94.15743,501,82830,33063,39432,139914414,3576029,America/Chicago
+12,Fort Smith,Sebastian County,AR,Arkansas,City,35.38592,-94.39855,501,88194,34780,35096,163578424,12876310,America/Chicago
+13,Jonesboro,Craighead County,AR,Arkansas,City,35.8423,-90.70428,870,73907,27335,41688,208130553,1488060,America/Chicago
+14,Little Rock,Pulaski County,AR,Arkansas,City,34.74648,-92.28959,501,197992,79902,46085,307398785,6758644,America/Chicago
+15,North Little Rock,Pulaski County,AR,Arkansas,City,34.76954,-92.26709,501,66504,25538,39591,134251406,7803863,America/Chicago
+16,Rogers,Benton County,AR,Arkansas,City,36.33202,-94.11854,501,63159,21295,52943,98229307,452140,America/Chicago
+17,Springdale,Washington County/Benton County,AR,Arkansas,City,36.19007,-94.15943,501,77859,24882,42319,120346437,1247769,America/Chicago
+18,Avondale,Maricopa County,AZ,Arizona,City,33.4356,-112.3496,623,80684,23516,55100,117194469,186352,America/Phoenix
+19,Buckeye,Maricopa County,AZ,Arizona,City,33.37032,-112.58378,623,62138,15718,58939,1015960556,343920,America/Phoenix
+20,Casa Grande,Pinal County,AZ,Arizona,City,32.8795,-111.75735,520,51460,17391,44348,285412569,0,America/Phoenix
+21,Casas Adobes,Pima County,AZ,Arizona,CDP,32.32341,-110.9951,520,68525,27867,56265,69019793,319226,America/Phoenix
+22,Catalina Foothills,Pima County,AZ,Arizona,CDP,32.29785,-110.9187,520,50643,23495,78586,108445140,203235,America/Phoenix
+23,Chandler,Maricopa County,AZ,Arizona,City,33.30616,-111.84125,480,260828,88973,72695,168153308,260378,America/Phoenix
+24,Flagstaff,Coconino County,AZ,Arizona,City,35.19807,-111.65127,928,70320,23292,48680,167575269,94667,America/Phoenix
+25,Gilbert,Maricopa County,AZ,Arizona,Town,33.35283,-111.78903,480,247542,73617,82424,176124143,510475,America/Phoenix
+26,Glendale,Maricopa County,AZ,Arizona,City,33.53865,-112.18599,623,240126,79152,46776,153029354,1003996,America/Phoenix
+27,Goodyear,Maricopa County,AZ,Arizona,City,33.43532,-112.35821,623,79003,23882,70323,495203854,86125,America/Phoenix
+28,Lake Havasu City,Mohave County,AZ,Arizona,City,34.4839,-114.32245,928,53553,22788,42847,119597331,118648,America/Phoenix
+29,Mesa,Maricopa County,AZ,Arizona,City,33.42227,-111.82264,480,471825,168914,48809,357097953,1950781,America/Phoenix
+30,Peoria,Maricopa County/Yavapai County,AZ,Arizona,City,33.7862,-112.30801,928,171237,58588,65314,455011748,8864869,America/Phoenix
+31,Phoenix,Maricopa County,AZ,Arizona,City,33.44838,-112.07404,602,1563025,525610,47326,1340692038,3247104,America/Phoenix
+32,San Tan Valley,Pinal County,AZ,Arizona,CDP,33.1911,-111.528,480,86743,25128,59769,94992471,0,America/Phoenix
+33,Scottsdale,Maricopa County,AZ,Arizona,City,33.50921,-111.89903,480,236839,102424,73288,476410748,1220280,America/Phoenix
+34,Surprise,Maricopa County,AZ,Arizona,City,33.63059,-112.33322,623,128422,45054,59916,279333692,295024,America/Phoenix
+35,Tempe,Maricopa County,AZ,Arizona,City,33.41477,-111.90931,480,175826,64810,49012,103510700,674096,America/Phoenix
+36,Tucson,Pima County,AZ,Arizona,City,32.22174,-110.92648,520,531641,206342,37149,597790363,819492,America/Phoenix
+37,Yuma,Yuma County,AZ,Arizona,City,32.72532,-114.6244,928,94139,33394,43754,313439592,180936,America/Phoenix
+38,Alameda,Alameda County,CA,California,City,37.76521,-122.24164,510,78630,30708,79312,27045458,32778370,America/Los Angeles
+39,Alhambra,Los Angeles County,CA,California,City,34.09529,-118.12701,626,85551,29174,53582,19764230,1730,America/Los Angeles
+40,Aliso Viejo,Orange County,CA,California,City,33.56504,-117.72712,949,50195,18425,102367,17921214,0,America/Los Angeles
+41,Anaheim,Orange County,CA,California,City,33.83529,-117.9145,657,350742,99670,60752,129438076,2457142,America/Los Angeles
+42,Antioch,Contra Costa County,CA,California,City,38.00492,-121.80579,925,110542,33718,64329,76173197,1842711,America/Los Angeles
+43,Apple Valley,San Bernardino County,CA,California,Town,34.50083,-117.18588,760,72174,23727,47938,192802312,855894,America/Los Angeles
+44,Arcadia,Los Angeles County,CA,California,City,34.13973,-118.03534,626,58408,19559,79934,28295893,540014,America/Los Angeles
+45,Arden-Arcade,Sacramento County,CA,California,CDP,38.60336,-121.38005,916,92844,40602,45489,46185637,232743,America/Los Angeles
+46,Bakersfield,Kern County,CA,California,City,35.37329,-119.01871,661,373640,112439,57095,385366784,3809676,America/Los Angeles
+47,Baldwin Park,Los Angeles County,CA,California,City,34.08529,-117.9609,626,77071,17674,51742,17174857,399817,America/Los Angeles
+48,Bellflower,Los Angeles County,CA,California,City,33.88168,-118.11701,562,78441,23176,48823,15845460,138188,America/Los Angeles
+49,Berkeley,Alameda County,CA,California,City,37.87159,-122.27275,510,120972,45917,66237,27106077,18715614,America/Los Angeles
+50,Brentwood,Contra Costa County,CA,California,City,37.93187,-121.69579,925,58968,17725,92589,38463708,21105,America/Los Angeles
+51,Buena Park,Orange County,CA,California,City,33.86751,-117.99812,657,83270,23130,70588,27246148,65361,America/Los Angeles
+52,Burbank,Los Angeles County,CA,California,City,34.18084,-118.30897,818,105319,41361,66076,44947219,94286,America/Los Angeles
+53,Camarillo,Ventura County,CA,California,City,34.21639,-119.0376,805,67608,24375,88152,50987676,24048,America/Los Angeles
+54,Carlsbad,San Diego County,CA,California,City,33.15809,-117.35059,760,113453,42791,90597,97713477,3595655,America/Los Angeles
+55,Carmichael,Sacramento County,CA,California,CDP,38.61713,-121.32828,916,63314,26074,54322,35028560,685947,America/Los Angeles
+56,Carson,Los Angeles County,CA,California,City,33.83141,-118.28202,424,93281,25223,72421,48492004,631332,America/Los Angeles
+57,Castro Valley,Alameda County,CA,California,CDP,37.6941,-122.08635,510,62363,22164,85596,43349342,822982,America/Los Angeles
+58,Cathedral City,Riverside County,CA,California,City,33.77974,-116.46529,760,53826,17369,39872,58414268,665521,America/Los Angeles
+59,Chico,Butte County,CA,California,City,39.72849,-121.83748,530,90316,34791,42342,85341862,445536,America/Los Angeles
+60,Chino,San Bernardino County,CA,California,City,34.01223,-117.68894,909,85595,20149,72872,76829663,33348,America/Los Angeles
+61,Chino Hills,San Bernardino County,CA,California,City,33.9938,-117.75888,909,78309,23696,96914,115720105,123913,America/Los Angeles
+62,Chula Vista,San Diego County,CA,California,City,32.64,-117.08417,619,265757,78066,65185,128544440,6380135,America/Los Angeles
+63,Citrus Heights,Sacramento County,CA,California,City,38.70712,-121.28106,916,87056,32987,50047,36851825,0,America/Los Angeles
+64,Clovis,Fresno County,CA,California,City,36.82523,-119.70292,559,104180,34512,62666,62693928,0,America/Los Angeles
+65,Colton,San Bernardino County,CA,California,City,34.0739,-117.31365,909,54621,15432,41565,39689349,1852708,America/Los Angeles
+66,Compton,Los Angeles County,CA,California,City,33.89585,-118.22007,424,98462,23551,43507,25973637,227893,America/Los Angeles
+67,Concord,Contra Costa County,CA,California,City,37.97798,-122.03107,925,128667,45409,68318,79108534,0,America/Los Angeles
+68,Corona,Riverside County,CA,California,City,33.87529,-117.56644,951,164226,48156,74149,102233537,211897,America/Los Angeles
+69,Costa Mesa,Orange County,CA,California,City,33.64113,-117.91867,949,113204,40908,66459,40723584,211253,America/Los Angeles
+70,Cupertino,Santa Clara County,CA,California,City,37.323,-122.03218,408,60572,20422,141953,29295950,2520,America/Los Angeles
+71,Daly City,San Mateo County,CA,California,City,37.70583,-122.46194,650,106562,31137,74449,19788422,0,America/Los Angeles
+72,Davis,Yolo County,CA,California,City,38.54491,-121.74052,530,67666,24428,56463,25607394,90331,America/Los Angeles
+73,Delano,Kern County,CA,California,City,35.76884,-119.24705,661,52733,11105,35933,37044413,135325,America/Los Angeles
+74,Diamond Bar,Los Angeles County,CA,California,City,34.02862,-117.81034,909,56897,17656,89221,38539601,13084,America/Los Angeles
+75,Downey,Los Angeles County,CA,California,City,33.94001,-118.13257,562,114219,32738,62897,32136795,414376,America/Los Angeles
+76,Dublin,Alameda County,CA,California,City,37.70215,-121.93579,925,57721,17321,118773,39453265,0,America/Los Angeles
+77,East Los Angeles,Los Angeles County,CA,California,CDP,34.0239,-118.17202,323,127610,31400,38766,19298247,11013,America/Los Angeles
+78,Eastvale,Riverside County,CA,California,City,33.96358,-117.56418,951,59039,13189,110927,32797626,1164576,America/Los Angeles
+79,El Cajon,San Diego County,CA,California,City,32.79477,-116.96253,619,103679,32564,45925,37516310,0,America/Los Angeles
+80,Elk Grove,Sacramento County,CA,California,City,38.4088,-121.37162,916,166913,49316,79487,109287233,120267,America/Los Angeles
+81,El Monte,Los Angeles County,CA,California,City,34.06862,-118.02757,626,116732,30752,38085,24766390,221652,America/Los Angeles
+82,Encinitas,San Diego County,CA,California,City,33.03699,-117.29198,760,62930,23465,95149,48722319,3050086,America/Los Angeles
+83,Escondido,San Diego County,CA,California,City,33.11921,-117.08642,760,151451,45041,50899,96015101,455887,America/Los Angeles
+84,Fairfield,Solano County,CA,California,City,38.24936,-122.03997,707,112970,34623,67364,105971964,696390,America/Los Angeles
+85,Florence-Graham,Los Angeles County,CA,California,CDP,33.96816,-118.24467,323,62815,14373,33934,9089173,0,America/Los Angeles
+86,Florin,Sacramento County,CA,California,CDP,38.49602,-121.40884,530,50791,15247,39998,22545947,0,America/Los Angeles
+87,Folsom,Sacramento County,CA,California,City,38.67796,-121.17606,916,76375,25879,100978,71762273,6107694,America/Los Angeles
+88,Fontana,San Bernardino County,CA,California,City,34.09223,-117.43505,909,207460,49975,64824,111418803,0,America/Los Angeles
+89,Fountain Valley,Orange County,CA,California,City,33.70918,-117.95367,657,56987,18842,82367,23497244,33638,America/Los Angeles
+90,Fremont,Alameda County,CA,California,City,37.54827,-121.98857,510,232206,72684,105355,200632984,26291597,America/Los Angeles
+91,Fresno,Fresno County,CA,California,City,36.74773,-119.77237,559,520052,161914,41531,296267437,732167,America/Los Angeles
+92,Fullerton,Orange County,CA,California,City,33.87029,-117.92534,657,140847,45031,65974,58100816,28063,America/Los Angeles
+93,Gardena,Los Angeles County,CA,California,City,33.88835,-118.30896,424,60447,20897,47674,15097442,93629,America/Los Angeles
+94,Garden Grove,Orange County,CA,California,City,33.77391,-117.94145,657,175393,46998,58449,46508935,45894,America/Los Angeles
+95,Gilroy,Santa Clara County,CA,California,City,37.00578,-121.56828,408,53231,14989,83027,41808104,26658,America/Los Angeles
+96,Glendale,Los Angeles County,CA,California,City,34.14251,-118.25508,818,201020,71498,52574,78818661,337115,America/Los Angeles
+97,Glendora,Los Angeles County,CA,California,City,34.13612,-117.86534,626,52009,16722,75148,50251851,403066,America/Los Angeles
+98,Hacienda Heights,Los Angeles County,CA,California,CDP,33.99307,-117.96868,626,55179,16020,78039,28957966,18431,America/Los Angeles
+99,Hanford,Kings County,CA,California,City,36.32745,-119.64568,559,55659,17414,53986,43521432,0,America/Los Angeles
+100,Hawthorne,Los Angeles County,CA,California,City,33.9164,-118.35257,424,88451,29159,44504,15750339,28946,America/Los Angeles
+101,Hayward,Alameda County,CA,California,City,37.66882,-122.0808,510,158289,46713,65096,117943767,47363956,America/Los Angeles
+102,Hemet,Riverside County,CA,California,City,33.74752,-116.97197,951,83861,29909,33989,71851072,0,America/Los Angeles
+103,Hesperia,San Bernardino County,CA,California,City,34.42639,-117.30088,760,93295,26253,44874,189317184,293823,America/Los Angeles
+104,Highland,San Bernardino County,CA,California,City,34.12834,-117.20865,909,54854,15289,53851,48574930,348871,America/Los Angeles
+105,Huntington Beach,Orange County,CA,California,City,33.6603,-117.99923,657,201899,74460,83252,69762694,13438927,America/Los Angeles
+106,Huntington Park,Los Angeles County,CA,California,City,33.98168,-118.22507,323,59430,14559,34887,7802459,8354,America/Los Angeles
+107,Indio,Riverside County,CA,California,City,33.72058,-116.21556,760,87533,26144,50525,86057044,20661,America/Los Angeles
+108,Inglewood,Los Angeles County,CA,California,City,33.96168,-118.35313,424,111666,36667,42044,23485845,63502,America/Los Angeles
+109,Irvine,Orange County,CA,California,City,33.66946,-117.82311,949,256927,87235,92278,169856564,885912,America/Los Angeles
+110,Jurupa Valley,Riverside County,CA,California,City,34.00259,-117.46761,951,100314,24839,57749,111216400,1914744,America/Los Angeles
+111,Laguna Niguel,Orange County,CA,California,City,33.52253,-117.70755,949,65806,24877,95536,38178711,133550,America/Los Angeles
+112,La Habra,Orange County,CA,California,City,33.931960000000004,-117.94617,562,62131,18830,63037,19046431,15869,America/Los Angeles
+113,Lake Elsinore,Riverside County,CA,California,City,33.66808,-117.32726,951,61981,15462,61248,98470406,14031927,America/Los Angeles
+114,Lake Forest,Orange County,CA,California,City,33.64697,-117.68922,949,82492,27044,91254,43081766,198785,America/Los Angeles
+115,Lakewood,Los Angeles County,CA,California,City,33.85363,-118.13396,562,81611,26083,79193,24394508,133056,America/Los Angeles
+116,La Mesa,San Diego County,CA,California,City,32.76778,-117.02306,619,60089,23785,54667,23552227,28934,America/Los Angeles
+117,Lancaster,Los Angeles County,CA,California,City,34.69804,-118.13674,661,161103,47427,47225,244230402,681671,America/Los Angeles
+118,Livermore,Alameda County,CA,California,City,37.68187,-121.76801,925,88126,30182,100992,69725238,9862,America/Los Angeles
+119,Lodi,San Joaquin County,CA,California,City,38.1302,-121.27245,209,64596,22423,49316,35406139,553120,America/Los Angeles
+120,Long Beach,Los Angeles County,CA,California,City,33.76696,-118.18923,562,474140,164406,52783,130317967,3004950,America/Los Angeles
+121,Los Angeles,Los Angeles County,CA,California,City,34.05223,-118.24368,213,3971883,1342761,50205,1214027148,88124562,America/Los Angeles
+122,Lynwood,Los Angeles County,CA,California,City,33.93029,-118.21146,424,71989,15132,43109,12535643,0,America/Los Angeles
+123,Madera,Madera County,CA,California,City,36.96134,-120.06072,559,64208,16791,40457,40893995,0,America/Los Angeles
+124,Manteca,San Joaquin County,CA,California,City,37.79743,-121.21605,209,75448,22639,62364,53215594,61889,America/Los Angeles
+125,Menifee,Riverside County,CA,California,City,33.72835,-117.14642,951,87174,27524,55985,120362837,388769,America/Los Angeles
+126,Merced,Merced County,CA,California,City,37.30216,-120.48297,209,82436,25330,37627,60156228,0,America/Los Angeles
+127,Milpitas,Santa Clara County,CA,California,City,37.42827,-121.90662,408,77604,20792,100242,35174793,99377,America/Los Angeles
+128,Mission Viejo,Orange County,CA,California,City,33.60002,-117.672,949,97156,33483,100366,45837210,968033,America/Los Angeles
+129,Modesto,Stanislaus County,CA,California,City,37.6391,-120.99688,209,211266,70481,48577,111285594,4760783,America/Los Angeles
+130,Montebello,Los Angeles County,CA,California,City,34.00944,-118.10528,323,63921,19816,45875,21579670,104151,America/Los Angeles
+131,Monterey Park,Los Angeles County,CA,California,City,34.06251,-118.12285,626,61468,19106,54097,19864150,155186,America/Los Angeles
+132,Moreno Valley,Riverside County,CA,California,City,33.93752,-117.23059,951,204198,51693,54590,132800801,504194,America/Los Angeles
+133,Mountain View,Santa Clara County,CA,California,City,37.38605,-122.08385,650,80435,32714,103488,31062820,719721,America/Los Angeles
+134,Murrieta,Riverside County,CA,California,City,33.55391,-117.21392,951,109830,32685,74610,87023902,93770,America/Los Angeles
+135,Napa,Napa County,CA,California,City,38.29714,-122.28553,707,80434,28356,68038,46008744,735220,America/Los Angeles
+136,National City,San Diego County,CA,California,City,32.67806,-117.09917,619,61060,15332,41437,18853103,4761839,America/Los Angeles
+137,Newport Beach,Orange County,CA,California,City,33.61891,-117.92895,949,87127,38071,113071,61590553,75554228,America/Los Angeles
+138,Norwalk,Los Angeles County,CA,California,City,33.90224,-118.08173,562,107140,27225,59756,25145023,101802,America/Los Angeles
+139,Novato,Marin County,CA,California,City,38.10742,-122.5697,415,55530,21403,78439,71077498,1340565,America/Los Angeles
+140,Oakland,Alameda County,CA,California,City,37.80437,-122.2708,510,419267,158424,54618,144762241,56897826,America/Los Angeles
+141,Oceanside,San Diego County,CA,California,City,33.19587,-117.37948,760,175691,60493,57703,106841893,2392242,America/Los Angeles
+142,Ontario,San Bernardino County,CA,California,City,34.06334,-117.65089,909,171214,47375,54114,129329742,159101,America/Los Angeles
+143,Orange,Orange County,CA,California,City,33.78779,-117.85311,657,140992,42680,78513,65677897,1134748,America/Los Angeles
+144,Oxnard,Ventura County,CA,California,City,34.1975,-119.17705,805,207254,50815,60621,69672461,31875278,America/Los Angeles
+145,Palmdale,Los Angeles County,CA,California,City,34.57943,-118.11646,661,158351,42720,52392,274452754,633935,America/Los Angeles
+146,Palm Desert,Riverside County,CA,California,City,33.72224,-116.37446,760,51869,23925,52892,69446779,528739,America/Los Angeles
+147,Palo Alto,Santa Clara County,CA,California,City,37.44188,-122.14302,650,66853,26087,136519,61810463,4940290,America/Los Angeles
+148,Paramount,Los Angeles County,CA,California,City,33.88946,-118.15979,562,55412,13844,45792,12248385,286383,America/Los Angeles
+149,Pasadena,Los Angeles County,CA,California,City,34.14778,-118.14452,626,142250,54536,72402,59524677,377058,America/Los Angeles
+150,Perris,Riverside County,CA,California,City,33.78252,-117.22865,951,74971,16297,49325,81742547,284236,America/Los Angeles
+151,Petaluma,Sonoma County,CA,California,City,38.23242,-122.63665,707,60438,21616,80276,37250003,277684,America/Los Angeles
+152,Pico Rivera,Los Angeles County,CA,California,City,33.98307,-118.09674,562,64218,16606,55752,21485451,1518018,America/Los Angeles
+153,Pittsburg,Contra Costa County,CA,California,City,38.02798,-121.88468,925,69424,20180,60777,44518679,5074288,America/Los Angeles
+154,Placentia,Orange County,CA,California,City,33.87224,-117.87034,657,52495,16050,79598,17129354,37381,America/Los Angeles
+155,Pleasanton,Alameda County,CA,California,City,37.66243,-121.87468,925,79510,26020,124759,62489257,386195,America/Los Angeles
+156,Pomona,Los Angeles County,CA,California,City,34.05529,-117.75228,909,153266,39378,49186,59446734,26188,America/Los Angeles
+157,Porterville,Tulare County,CA,California,City,36.06523,-119.01677,559,56058,15821,38456,48156793,60581,America/Los Angeles
+158,Poway,San Diego County,CA,California,City,32.96282,-117.03586,858,50157,15832,95815,101214289,223435,America/Los Angeles
+159,Rancho Cordova,Sacramento County,CA,California,City,38.58907,-121.30273,530,71017,24063,52530,90270322,951439,America/Los Angeles
+160,Rancho Cucamonga,San Bernardino County,CA,California,City,34.1064,-117.59311,909,175236,55240,77396,103562370,24723,America/Los Angeles
+161,Redding,Shasta County,CA,California,City,40.58654,-122.39168,530,91582,35436,43341,154485022,3957246,America/Los Angeles
+162,Redlands,San Bernardino County,CA,California,City,34.05557,-117.18254,909,71035,24157,65212,93321052,779122,America/Los Angeles
+163,Redondo Beach,Los Angeles County,CA,California,City,33.84918,-118.38841,424,68166,27733,105145,16053735,26297,America/Los Angeles
+164,Redwood City,San Mateo County,CA,California,City,37.48522,-122.23635,650,85288,29049,84934,49976893,39824467,America/Los Angeles
+165,Rialto,San Bernardino County,CA,California,City,34.1064,-117.37032,909,103132,25199,50971,57824783,36883,America/Los Angeles
+166,Richmond,Contra Costa County,CA,California,City,37.93576,-122.34775,510,109708,36973,55102,77834895,58171749,America/Los Angeles
+167,Riverside,Riverside County,CA,California,City,33.95333,-117.39611,951,322424,91267,57196,210379895,801713,America/Los Angeles
+168,Rocklin,Placer County,CA,California,City,38.79073,-121.23578,916,61213,21208,80177,50620710,138528,America/Los Angeles
+169,Rosemead,Los Angeles County,CA,California,City,34.08057,-118.07285,626,54908,14768,44906,13370145,35465,America/Los Angeles
+170,Roseville,Placer County,CA,California,City,38.75212,-121.28801,916,130269,46547,75867,111337848,3366,America/Los Angeles
+171,Rowland Heights,Los Angeles County,CA,California,CDP,33.97612,-117.90534,626,51597,14617,59534,33863884,14576,America/Los Angeles
+172,Sacramento,Sacramento County,CA,California,City,38.58157,-121.4944,530,490712,178185,50739,253621861,5651667,America/Los Angeles
+173,Salinas,Monterey County,CA,California,City,36.67774,-121.6555,831,157380,40892,49840,61150707,98696,America/Los Angeles
+174,San Bernardino,San Bernardino County,CA,California,City,34.10834,-117.28977,909,216108,57580,37047,159326695,1126214,America/Los Angeles
+175,San Buenaventura (Ventura),Ventura County,CA,California,City,34.26778,-119.25421,805,109708,41029,66995,56500370,27033715,America/Los Angeles
+176,San Clemente,Orange County,CA,California,City,33.42697,-117.61199,949,65526,24069,98153,47542284,1965336,America/Los Angeles
+177,San Diego,San Diego County,CA,California,City,32.71533,-117.15726,619,1394928,485091,66116,842252395,122244773,America/Los Angeles
+178,San Francisco,San Francisco County,CA,California,City,37.775,-122.41944,415,864816,353287,81294,121455687,479136515,America/Los Angeles
+179,San Jose,Santa Clara County,CA,California,City,37.33939,-121.89496,408,1026908,314297,84647,459749746,7803332,America/Los Angeles
+180,San Leandro,Alameda County,CA,California,City,37.72493,-122.15608,510,90712,31363,62761,34568437,5679338,America/Los Angeles
+181,San Marcos,San Diego County,CA,California,City,33.14337,-117.16614,760,92931,28738,57822,63105425,52493,America/Los Angeles
+182,San Mateo,San Mateo County,CA,California,City,37.56299,-122.32553,650,103536,37861,90208,31415730,9721639,America/Los Angeles
+183,San Rafael,Marin County,CA,California,City,37.97361,-122.53111,415,59162,22826,77294,42908410,15409794,America/Los Angeles
+184,San Ramon,Contra Costa County,CA,California,City,37.77993,-121.97802,925,76134,25265,128916,48244969,41682,America/Los Angeles
+185,Santa Ana,Orange County,CA,California,City,33.74557,-117.86783,949,335400,74757,52253,70306781,638460,America/Los Angeles
+186,Santa Barbara,Santa Barbara County,CA,California,City,34.42083,-119.69819,805,91842,34973,66107,50478061,58275323,America/Los Angeles
+187,Santa Clara,Santa Clara County,CA,California,City,37.35411,-121.95524,408,126215,43433,98914,47678886,0,America/Los Angeles
+188,Santa Clarita,Los Angeles County,CA,California,City,34.39166,-118.54259,661,182371,59247,83554,136645644,131952,America/Los Angeles
+189,Santa Cruz,Santa Cruz County,CA,California,City,36.97412,-122.0308,831,64220,21516,62164,32997148,7998546,America/Los Angeles
+190,Santa Maria,Santa Barbara County,CA,California,City,34.95303,-120.43572,805,105093,27365,50433,59005328,1648788,America/Los Angeles
+191,Santa Monica,Los Angeles County,CA,California,City,34.01945,-118.49119,424,93220,46688,76580,21795228,3025,America/Los Angeles
+192,Santa Rosa,Sonoma County,CA,California,City,38.44047,-122.71443,707,174972,64088,61050,106947059,531185,America/Los Angeles
+193,Santee,San Diego County,CA,California,City,32.83838,-116.97392,619,57787,19364,76104,42058355,758838,America/Los Angeles
+194,Simi Valley,Ventura County,CA,California,City,34.26945,-118.78148,805,126788,41972,90210,107421127,1984799,America/Los Angeles
+195,South Gate,Los Angeles County,CA,California,City,33.95474,-118.21202,323,96401,23398,43552,18741686,302705,America/Los Angeles
+196,South San Francisco,San Mateo County,CA,California,City,37.65472,-122.40778,650,67271,21136,81439,23769810,54435146,America/Los Angeles
+197,South Whittier,Los Angeles County,CA,California,CDP,33.96085,-118.04173,562,58328,15153,62592,13823380,22187,America/Los Angeles
+198,Stockton,San Joaquin County,CA,California,City,37.9577,-121.29078,209,305658,92440,44797,159717213,7984586,America/Los Angeles
+199,Sunnyvale,Santa Clara County,CA,California,City,37.36883,-122.03635,408,151754,55094,105401,56936612,1817655,America/Los Angeles
+200,Temecula,Riverside County,CA,California,City,33.49364,-117.14836,951,112011,32835,79925,96518165,30591,America/Los Angeles
+201,Thousand Oaks,Ventura County,CA,California,City,34.17056,-118.8375,805,129339,45912,100946,142919822,387875,America/Los Angeles
+202,Torrance,Los Angeles County,CA,California,City,33.83585,-118.34063,424,148475,55377,79549,53038407,194217,America/Los Angeles
+203,Tracy,San Joaquin County,CA,California,City,37.73965,-121.42522,209,87075,24344,76310,57348808,352292,America/Los Angeles
+204,Tulare,Tulare County,CA,California,City,36.20773,-119.34734,559,62315,18295,46659,52770665,197822,America/Los Angeles
+205,Turlock,Stanislaus County,CA,California,City,37.49466,-120.84659,209,72292,23983,51401,43830795,69528,America/Los Angeles
+206,Tustin,Orange County,CA,California,City,33.74585,-117.82617,949,80583,25340,71897,28777001,0,America/Los Angeles
+207,Union City,Alameda County,CA,California,City,37.59583,-122.01917,510,74494,20461,85521,50244982,0,America/Los Angeles
+208,Upland,San Bernardino County,CA,California,City,34.09751,-117.64839,909,76443,27070,60779,40460527,86983,America/Los Angeles
+209,Vacaville,Solano County,CA,California,City,38.35658,-121.98774,707,96803,31798,74001,74615969,541215,America/Los Angeles
+210,Vallejo,Solano County,CA,California,City,38.10409,-122.25664,707,121253,41216,57028,79438815,48871171,America/Los Angeles
+211,Victorville,San Bernardino County,CA,California,City,34.53611,-117.29116,760,122225,31886,45894,189919736,1459026,America/Los Angeles
+212,Visalia,Tulare County,CA,California,City,36.33023,-119.29206,559,130104,41730,52157,97057436,51434,America/Los Angeles
+213,Vista,San Diego County,CA,California,City,33.20004,-117.24254,760,100890,30451,50601,48380231,0,America/Los Angeles
+214,Walnut Creek,Contra Costa County,CA,California,City,37.90631,-122.06496,925,68910,30317,82120,51175071,31195,America/Los Angeles
+215,Watsonville,Santa Cruz County,CA,California,City,36.91023,-121.75689,831,53628,14216,46018,17320714,249705,America/Los Angeles
+216,West Covina,Los Angeles County,CA,California,City,34.06862,-117.93895,626,108484,30816,69189,41546642,124507,America/Los Angeles
+217,Westminster,Orange County,CA,California,City,33.75918,-118.00673,657,92114,27309,53455,26008638,0,America/Los Angeles
+218,West Sacramento,Yolo County,CA,California,City,38.58046,-121.53023,530,52721,17930,52763,55673946,3495787,America/Los Angeles
+219,Whittier,Los Angeles County,CA,California,City,33.97918,-118.03284,562,87438,27525,66457,37940391,40476,America/Los Angeles
+220,Woodland,Yolo County,CA,California,City,38.67852,-121.7733,530,58567,19547,55893,39642851,0,America/Los Angeles
+221,Yorba Linda,Orange County,CA,California,City,33.88863,-117.81311,657,67973,21912,117855,50008147,1435912,America/Los Angeles
+222,Yuba City,Sutter County,CA,California,City,39.14045,-121.61691,530,66941,21859,50649,38657275,201005,America/Los Angeles
+223,Yucaipa,San Bernardino County,CA,California,City,34.03363,-117.04309,909,53328,18198,56452,73532054,0,America/Los Angeles
+224,Arvada,Jefferson County/Adams County,CO,Colorado,City,39.83373,-105.15031,303,115368,44615,69938,100047257,1882996,America/Denver
+225,Aurora,Adams County/Douglas County/Arapahoe County,CO,Colorado,City,39.688,-104.68974,303,359407,124031,53011,397624166,1731418,America/Denver
+226,Boulder,Boulder County,CO,Colorado,City,40.01499,-105.27055,303,107349,42165,58484,64333756,2612601,America/Denver
+227,Broomfield,Broomfield County,CO,Colorado,City,39.92054,-105.08665,303,65065,23531,81898,85478497,1411781,America/Denver
+228,Castle Rock,Douglas County,CO,Colorado,Town,39.37221,-104.85609,303,55591,18721,88294,88307900,0,America/Denver
+229,Centennial,Arapahoe County,CO,Colorado,City,39.57916,-104.87692,303,109741,38991,91941,76525641,381964,America/Denver
+230,Colorado Springs,El Paso County,CO,Colorado,City,38.83388,-104.82136,719,456568,174441,54527,506667557,947196,America/Denver
+231,Commerce City,Adams County,CO,Colorado,City,39.80832,-104.93387,303,53696,14704,66053,91223535,1076681,America/Denver
+232,Denver,Denver County,CO,Colorado,City,39.73915,-104.9847,303,682545,275795,53637,397133930,4225831,America/Denver
+233,Fort Collins,Larimer County,CO,Colorado,City,40.58526,-105.08442,970,161175,58918,55647,144576803,3196479,America/Denver
+234,Grand Junction,Mesa County,CO,Colorado,City,39.06387,-108.55065,970,60358,24290,45358,101735554,921925,America/Denver
+235,Greeley,Weld County,CO,Colorado,City,40.42331,-104.70913,970,100883,33774,48813,123893579,314890,America/Denver
+236,Highlands Ranch,Douglas County,CO,Colorado,CDP,39.55388,-104.96943,303,101350,37157,108570,62856809,70330,America/Denver
+237,Lakewood,Jefferson County,CO,Colorado,City,39.70471,-105.08137,303,152597,63159,56954,111039036,3056315,America/Denver
+238,Longmont,Boulder County/Weld County,CO,Colorado,City,40.16984,-105.09901,303,92088,33850,62208,71061215,3918285,America/Denver
+239,Loveland,Larimer County,CO,Colorado,City,40.39776,-105.07498,970,75182,29985,56277,88294788,3811046,America/Denver
+240,Pueblo,Pueblo County,CO,Colorado,City,38.25445,-104.60914,719,109412,43249,34550,138802381,2033674,America/Denver
+241,Thornton,Adams County/Weld County,CO,Colorado,City,39.91942,-104.94281,303,133451,42679,66948,92549444,2767648,America/Denver
+242,Westminster,Jefferson County/Adams County,CO,Colorado,City,39.88219,-105.06443,303,113130,42239,67081,82177513,6010635,America/Denver
+243,Bridgeport,Fairfield County,CT,Connecticut,City,41.16704,-73.20483,203,147629,50367,41801,41591056,8721419,America/New York
+244,Bridgeport (Town),Fairfield County,CT,Connecticut,Town,41.18739,-73.19576,203,147629,50367,41801,41591056,8721419,America/New York
+245,Bristol,Hartford County,CT,Connecticut,City,41.67176,-72.94927,959,60452,24921,61478,68392866,1046762,America/New York
+246,Bristol (Town),Hartford County,CT,Connecticut,Town,41.68158,-72.94075,959,60452,24921,61478,68392866,1046762,America/New York
+247,Danbury,Fairfield County,CT,Connecticut,City,41.39482,-73.45401,203,84657,28894,66676,108636759,5813522,America/New York
+248,Danbury (Town),Fairfield County,CT,Connecticut,Town,41.39874,-73.4781,203,84657,28894,66676,108636759,5813522,America/New York
+249,East Hartford,Hartford County,CT,Connecticut,Town,41.7607,-72.60765,959,50821,20225,48369,46610800,1904156,America/New York
+250,East Hartford (CDP),Hartford County,CT,Connecticut,CDP,41.78232,-72.61203,959,51211,20225,48369,46610800,1904156,America/New York
+251,Fairfield,Fairfield County,CT,Connecticut,Town,41.17594,-73.27205,203,61523,20233,122306,77447723,3827261,America/New York
+252,Greenwich,Fairfield County,CT,Connecticut,Town,41.04537,-73.63402,203,62695,22083,128153,123574542,50755176,America/New York
+253,Hamden,New Haven County,CT,Connecticut,Town,41.39733,-72.92223,203,61218,23187,70791,84544680,1735227,America/New York
+254,Hartford,Hartford County,CT,Connecticut,City,41.76371,-72.68509,959,124006,45239,30630,45016120,1748078,America/New York
+255,Hartford (Town),Hartford County,CT,Connecticut,Town,41.76593,-72.68158,959,124006,45239,30630,45016120,1748078,America/New York
+256,Manchester,Hartford County,CT,Connecticut,Town,41.77524,-72.52443,959,58007,24141,63158,70972793,720300,America/New York
+257,Meriden,New Haven County,CT,Connecticut,City,41.53815,-72.80704,203,59988,24663,54588,61625575,937980,America/New York
+258,Meriden (Town),New Haven County,CT,Connecticut,Town,41.53678,-72.79454,203,59988,24663,54588,61625575,937980,America/New York
+259,Milford,New Haven County,CT,Connecticut,City,41.22509,-73.06111,203,53592,19631,0,57442071,10218658,America/New York
+260,Milford (Town),New Haven County,CT,Connecticut,Town,41.22509,-73.06111,203,53592,21255,80247,57442071,10218658,America/New York
+261,New Britain,Hartford County,CT,Connecticut,City,41.66121,-72.77954,959,72808,27858,40457,34588218,188305,America/New York
+262,New Britain (Town),Hartford County,CT,Connecticut,Town,41.67655,-72.78616,959,72808,27858,40457,34588218,188305,America/New York
+263,New Haven,New Haven County,CT,Connecticut,City,41.30815,-72.92816,203,130322,49771,37192,48407373,3739487,America/New York
+264,New Haven (Town),New Haven County,CT,Connecticut,Town,41.310810000000004,-72.92495,203,130322,49771,37192,48407373,3739487,America/New York
+265,Norwalk,Fairfield County,CT,Connecticut,City,41.1176,-73.4079,203,88485,34137,76987,59275297,34928497,America/New York
+266,Norwalk (Town),Fairfield County,CT,Connecticut,Town,41.09274,-73.4198,203,88485,34137,76987,59275297,34928497,America/New York
+267,Stamford,Fairfield County,CT,Connecticut,City,41.05343,-73.53873,203,128874,46974,79359,97430571,37323740,America/New York
+268,Stamford (Town),Fairfield County,CT,Connecticut,Town,41.07986,-73.54603,203,128874,46974,79359,97430571,37323740,America/New York
+269,Stratford,Fairfield County,CT,Connecticut,Town,41.20569,-73.12799,203,52609,20714,66886,45291196,6294548,America/New York
+270,Stratford (CDP),Fairfield County,CT,Connecticut,CDP,41.18454,-73.13317,203,52092,20714,66886,45291196,6294548,America/New York
+271,Waterbury,New Haven County,CT,Connecticut,City,41.55815,-73.0515,203,108802,40213,40467,73880017,1086045,America/New York
+272,Waterbury (Town),New Haven County,CT,Connecticut,Town,41.5585,-73.03668,203,108802,40213,40467,73880017,1086045,America/New York
+273,West Hartford,Hartford County,CT,Connecticut,Town,41.76657,-72.75494,959,63053,24935,86569,56558781,1097890,America/New York
+274,West Hartford (CDP),Hartford County,CT,Connecticut,CDP,41.76204,-72.74204,959,63396,24935,86569,56558781,1097890,America/New York
+275,West Haven,New Haven County,CT,Connecticut,City,41.27065,-72.94705,203,54927,20137,50846,27834890,439572,America/New York
+276,West Haven (Town),New Haven County,CT,Connecticut,Town,41.27212,-72.9675,203,54927,20137,50846,27834890,439572,America/New York
+277,Washington,District of Columbia,DC,District of Columbia,City,38.9041,-77.01723,202,672228,273390,70848,158364992,18633403,America/New York
+278,Wilmington,New Castle County,DE,Delaware,City,39.74595,-75.54659,302,71948,28881,40465,28241488,15639762,America/New York
+279,Alafaya,Orange County,FL,Florida,CDP,28.5641,-81.2114,407,85561,28286,63449,98218668,305253,America/New York
+280,Boca Raton,Palm Beach County,FL,Florida,City,26.35869,-80.0831,561,93235,37224,70638,75943092,5106264,America/New York
+281,Bonita Springs,Lee County,FL,Florida,City,26.33981,-81.7787,941,51704,19634,53955,100635620,20010277,America/New York
+282,Boynton Beach,Palm Beach County,FL,Florida,City,26.52535,-80.06643,561,73966,28989,46178,41932052,854911,America/New York
+283,Bradenton,Manatee County,FL,Florida,City,27.49893,-82.57482,941,54437,20649,40227,37010957,7032997,America/New York
+284,Brandon,Hillsborough County,FL,Florida,CDP,27.9378,-82.28592,813,106604,40453,56464,85738633,4903052,America/New York
+285,Cape Coral,Lee County,FL,Florida,City,26.56285,-81.94953,941,175229,58967,50536,273544395,35010453,America/New York
+286,Clearwater,Pinellas County,FL,Florida,City,27.97895,-82.76657,727,113003,46234,44198,67027321,36469162,America/New York
+287,Coconut Creek,Broward County,FL,Florida,City,26.25175,-80.17894,954,59302,22113,52800,30711918,392549,America/New York
+288,Coral Gables,Miami-Dade County,FL,Florida,City,25.72149,-80.26838,305,51117,17954,93934,33492473,63155377,America/New York
+289,Coral Springs,Broward County,FL,Florida,City,26.27119,-80.2706,954,129485,40571,66430,61625913,520928,America/New York
+290,Davie,Broward County,FL,Florida,Town,26.06287,-80.2331,954,100882,33707,59680,90395673,2163582,America/New York
+291,Daytona Beach,Volusia County,FL,Florida,City,29.21081,-81.02283,386,64736,26998,27901,168629342,6531106,America/New York
+292,Deerfield Beach,Broward County,FL,Florida,City,26.31841,-80.09977,954,79768,31915,40626,39084365,2996502,America/New York
+293,Delray Beach,Palm Beach County,FL,Florida,City,26.46146,-80.07282,561,66255,27361,50136,41253110,1048054,America/New York
+294,Deltona,Volusia County,FL,Florida,City,28.90054,-81.26367,386,88474,29496,42077,96463097,9151359,America/New York
+295,Doral,Miami-Dade County,FL,Florida,City,25.81954,-80.35533,305,56035,15038,72933,35978653,3338846,America/New York
+296,Fort Lauderdale,Broward County,FL,Florida,City,26.12231,-80.14338,954,178590,73446,50778,89672308,4372775,America/New York
+297,Fort Myers,Lee County,FL,Florida,City,26.64063,-81.87231,941,74013,25095,39039,103020979,23820848,America/New York
+298,Fountainebleau,Miami-Dade County,FL,Florida,CDP,25.77288,-80.34783,305,53413,18175,42444,10003979,542329,America/New York
+299,Gainesville,Alachua County,FL,Florida,City,29.65163,-82.32483,352,130128,47968,31818,161411152,3017660,America/New York
+300,Hialeah,Miami-Dade County,FL,Florida,City,25.8576,-80.27811,305,237069,69219,29249,55623172,3481216,America/New York
+301,Hollywood,Broward County,FL,Florida,City,26.0112,-80.14949,954,149728,55823,46791,70639073,8937087,America/New York
+302,Homestead,Miami-Dade County,FL,Florida,City,25.46872,-80.47756,305,66498,19154,40959,39204022,1231550,America/New York
+303,Jacksonville,Duval County,FL,Florida,City,30.33218,-81.65565,904,868031,318575,46764,1935873371,329424471,America/New York
+304,Jupiter,Palm Beach County,FL,Florida,Town,26.93422,-80.09421,561,62707,24536,71233,56565914,4574769,America/New York
+305,Kendale Lakes,Miami-Dade County,FL,Florida,CDP,25.70816,-80.407,305,58767,17936,48818,20913887,1379611,America/New York
+306,Kendall,Miami-Dade County,FL,Florida,CDP,25.67927,-80.31727,305,78580,27913,61554,41735233,1302744,America/New York
+307,Kissimmee,Osceola County,FL,Florida,City,28.29196,-81.40757,407,69152,20765,37487,53929070,1760423,America/New York
+308,Lakeland,Polk County,FL,Florida,City,28.03947,-81.9498,863,104401,39376,39706,170700664,23355418,America/New York
+309,Largo,Pinellas County,FL,Florida,City,27.90947,-82.78732,727,81000,36140,39468,47265491,2548789,America/New York
+310,Lauderhill,Broward County,FL,Florida,City,26.14036,-80.21338,954,71579,23770,37429,22074601,130328,America/New York
+311,Lehigh Acres,Lee County,FL,Florida,CDP,26.62535,-81.6248,941,106747,31831,40226,239916420,3912093,America/New York
+312,Margate,Broward County,FL,Florida,City,26.24453,-80.20644,954,57234,20651,42786,22943340,594611,America/New York
+313,Melbourne,Brevard County,FL,Florida,City,28.08363,-80.60811,321,80127,33619,40219,97226478,14784473,America/New York
+314,Miami,Miami-Dade County,FL,Florida,City,25.77427,-80.19366,305,441003,157347,31051,93204587,51995800,America/New York
+315,Miami Beach,Miami-Dade County,FL,Florida,City,25.79065,-80.13005,305,92312,43266,44342,19903821,19510956,America/New York
+316,Miami Gardens,Miami-Dade County,FL,Florida,City,25.94204,-80.2456,305,113187,31003,38253,47236363,2016214,America/New York
+317,Miramar,Broward County,FL,Florida,City,25.98731,-80.23227,954,137132,38474,65282,76095016,4917826,America/New York
+318,North Miami,Miami-Dade County,FL,Florida,City,25.89009,-80.18671,305,62435,18302,36537,21959722,4516371,America/New York
+319,North Port,Sarasota County,FL,Florida,City,27.04422,-82.23593,941,62345,22580,52571,257497336,12317102,America/New York
+320,Ocala,Marion County,FL,Florida,City,29.1872,-82.14009,352,58218,21664,35924,118749898,0,America/New York
+321,Orlando,Orange County,FL,Florida,City,28.53834,-81.37924,407,270934,105359,42318,272512582,22100434,America/New York
+322,Palm Bay,Brevard County,FL,Florida,City,28.03446,-80.58866,321,107888,37821,43163,170217927,8124203,America/New York
+323,Palm Beach Gardens,Palm Beach County,FL,Florida,City,26.82339,-80.13865,561,52923,22945,68802,145122054,631694,America/New York
+324,Palm Coast,Flagler County,FL,Florida,City,29.58497,-81.20784,386,82893,28169,48369,245950004,2816036,America/New York
+325,Palm Harbor,Pinellas County,FL,Florida,CDP,28.07807,-82.76371,727,59007,26423,53281,44936602,24630843,America/New York
+326,Pembroke Pines,Broward County,FL,Florida,City,26.00315,-80.22394,954,166611,56171,61279,85539498,5033092,America/New York
+327,Pensacola,Escambia County,FL,Florida,City,30.42131,-87.21691,850,53193,22103,45527,58529173,47045219,America/Chicago
+328,Pine Hills,Orange County,FL,Florida,CDP,28.55778,-81.4534,407,64516,20196,35854,31671879,1289034,America/New York
+329,Pinellas Park,Pinellas County,FL,Florida,City,27.8428,-82.69954,727,51617,20981,41494,41127042,1726564,America/New York
+330,Plantation,Broward County,FL,Florida,City,26.12759,-80.2331,954,92560,33208,66647,56037359,773422,America/New York
+331,Poinciana,Polk County/Osceola County,FL,Florida,CDP,28.11873,-81.47923,863,56678,17275,39839,186162684,2719596,America/New York
+332,Pompano Beach,Broward County,FL,Florida,City,26.23786,-80.12477,954,107762,41422,41321,62261002,1737713,America/New York
+333,Port Charlotte,Charlotte County,FL,Florida,CDP,26.97617,-82.09064,941,55206,23486,38896,73763541,9994165,America/New York
+334,Port Orange,Volusia County,FL,Florida,City,29.13832,-80.99561,386,59866,24356,43353,69524441,5153051,America/New York
+335,Port St. Lucie,St. Lucie County,FL,Florida,City,27.29393,-80.35033,772,179413,59221,49813,307920898,4193519,America/New York
+336,Riverview,Hillsborough County,FL,Florida,CDP,27.86614,-82.32648,813,76590,26495,66497,119614526,4615996,America/New York
+337,Sanford,Seminole County,FL,Florida,City,28.80055,-81.27312,407,58111,19039,38273,59720123,9150087,America/New York
+338,Sarasota,Sarasota County,FL,Florida,City,27.33643,-82.53065,941,55118,23461,43244,38024624,27281560,America/New York
+339,Spring Hill,Hernando County,FL,Florida,CDP,28.47689,-82.52546,352,100270,39038,41308,154983928,6194314,America/New York
+340,St. Petersburg,Pinellas County,FL,Florida,City,27.77086,-82.67927,727,257083,105443,45748,159935822,196559588,America/New York
+341,Sunrise,Broward County,FL,Florida,City,26.1716,-80.26163,954,92700,31354,49806,42335506,5032750,America/New York
+342,Tallahassee,Leon County,FL,Florida,City,30.43826,-84.28073,850,189907,74388,39681,260089732,8300437,America/New York
+343,Tamarac,Broward County,FL,Florida,City,26.21286,-80.24977,954,64681,27242,43235,30099887,1195872,America/New York
+344,Tamiami,Miami-Dade County,FL,Florida,CDP,25.75871,-80.39839,305,57123,16085,46449,18250601,985214,America/New York
+345,Tampa,Hillsborough County,FL,Florida,City,27.94752,-82.45843,813,369075,142232,44185,293748385,160056620,America/New York
+346,The Hammocks,Miami-Dade County,FL,Florida,CDP,25.67149,-80.4445,305,54833,15687,58655,20412461,571867,America/New York
+347,The Villages,Sumter County/Marion County,FL,Florida,CDP,28.89895,-81.99374,352,61046,36306,56672,81159020,3246650,America/New York
+348,Town 'n' Country,Hillsborough County,FL,Florida,CDP,28.01057,-82.57732,813,82506,30435,49559,57216423,5301524,America/New York
+349,Wellington,Palm Beach County,FL,Florida,Village,26.65868,-80.24144,561,62560,19959,81047,116920914,1164323,America/New York
+350,Weston,Broward County,FL,Florida,City,26.10037,-80.39977,954,69959,21259,93814,64536378,3772764,America/New York
+351,West Palm Beach,Palm Beach County,FL,Florida,City,26.71534,-80.05337,561,106779,41474,45800,142798170,6628847,America/New York
+352,Albany,Dougherty County,GA,Georgia,City,31.57851,-84.15574,229,74843,29076,29676,142614721,1974494,America/New York
+353,Alpharetta,Fulton County,GA,Georgia,City,34.07538,-84.29409,770,63693,22824,92839,69668492,956380,America/New York
+354,Athens,Clarke County,GA,Georgia,Unified Government,33.95219,-83.36715,706,123912,45389,39464,308738452,4741286,America/New York
+355,Atlanta,DeKalb County/Fulton County,GA,Georgia,City,33.76291,-84.42267,678,463878,185820,47527,345684978,2311315,America/New York
+356,Augusta,Richmond County,GA,Georgia,Consolidated Government,33.36149,-82.075,706,201793,73917,39464,840008393,11042219,America/New York
+357,Brookhaven,DeKalb County,GA,Georgia,City,33.85844,-84.3402,678,51910,21780,69277,29997184,312796,America/New York
+358,Columbus,Muscogee County,GA,Georgia,City,32.46098,-84.98771,706,200579,72760,42306,560530243,11873622,America/New York
+359,Johns Creek,Fulton County,GA,Georgia,City,34.02893,-84.19858,770,83335,26583,105417,79805550,1376199,America/New York
+360,Macon,Bibb County,GA,Georgia,Other,32.808840000000004,-83.69419,478,153515,57025,36568,645603627,14488557,America/New York
+361,Marietta,Cobb County,GA,Georgia,City,33.9526,-84.54993,770,59067,23371,44953,60358315,200841,America/New York
+362,Roswell,Fulton County/Cobb County,GA,Georgia,City,34.03945,-84.35095,770,94501,34697,82150,105445793,3323799,America/New York
+363,Sandy Springs,Fulton County,GA,Georgia,City,33.92427,-84.37854,678,105330,43058,63917,97526360,2245984,America/New York
+364,Savannah,Chatham County,GA,Georgia,City,32.08354,-81.09983,912,145674,52798,36466,268318796,13908113,America/New York
+365,Smyrna,Cobb County,GA,Georgia,City,33.88399,-84.51438,770,56146,23666,62363,40421607,91658,America/New York
+366,Valdosta,Lowndes County,GA,Georgia,City,30.8327,-83.27849,229,55724,21029,29336,92873485,1348175,America/New York
+367,Warner Robins,Peach County/Houston County,GA,Georgia,City,32.5971,-83.65394,478,73490,27334,42795,93514656,755694,America/New York
+368,Honolulu,Honolulu County,HI,Hawaii,CDP,21.32435,-157.84764,808,352769,127177,61442,156812572,20481895,Pacific/Honolulu
+369,Ames,Story County,IA,Iowa,City,42.03471,-93.61994,515,65060,24004,41616,64894500,521634,America/Chicago
+370,Ankeny,Polk County,IA,Iowa,City,41.72971,-93.60577,515,56764,19569,75465,76091403,0,America/Chicago
+371,Cedar Rapids,Linn County,IA,Iowa,City,42.00833,-91.64407,319,130405,53328,53581,183340874,3295742,America/Chicago
+372,Council Bluffs,Pottawattamie County,IA,Iowa,City,41.26194,-95.86083,712,62597,24770,45551,111059820,6849464,America/Chicago
+373,Davenport,Scott County,IA,Iowa,City,41.52364,-90.57764,563,102582,41100,47343,162885999,5501339,America/Chicago
+374,Des Moines,Warren County/Polk County,IA,Iowa,City,41.57259,-93.61024,515,210330,81717,46290,230329944,4657227,America/Chicago
+375,Dubuque,Dubuque County,IA,Iowa,City,42.50056,-90.66457,563,58799,23901,47450,78952077,2802123,America/Chicago
+376,Iowa City,Johnson County,IA,Iowa,City,41.66113,-91.53017,319,74220,28985,42375,67167680,734599,America/Chicago
+377,Sioux City,Plymouth County/Woodbury County,IA,Iowa,City,42.49567,-96.39053,712,82821,31261,43888,151377897,3018320,America/Chicago
+378,Waterloo,Black Hawk County,IA,Iowa,City,42.49276,-92.34296,319,68460,28430,41933,159034208,4720453,America/Chicago
+379,West Des Moines,Madison County/Warren County/Dallas County/Polk County,IA,Iowa,City,41.54994,-93.78135,515,64113,25884,71200,120659778,2534589,America/Chicago
+380,Boise City,Ada County,ID,Idaho,City,43.6135,-116.20345,208,218281,86916,50323,212601021,1845301,America/Boise
+381,Caldwell,Canyon County,ID,Idaho,City,43.66294,-116.68736,208,51686,15709,41048,57473021,99611,America/Boise
+382,Idaho Falls,Bonneville County,ID,Idaho,City,43.46658,-112.03414,208,59184,20945,44580,58784318,1144625,America/Boise
+383,Meridian,Ada County,ID,Idaho,City,43.61211,-116.39151,208,90739,29499,63023,76985230,163548,America/Boise
+384,Nampa,Canyon County,ID,Idaho,City,43.54072,-116.56346,208,89839,28741,40060,81908344,377237,America/Boise
+385,Pocatello,Power County/Bannock County,ID,Idaho,City,42.87158,-112.46556,208,54441,20428,40269,84203491,409684,America/Boise
+386,Addison (Township),DuPage County,IL,Illinois,Township,41.948,-87.98061,630,89715,30362,64652,82232906,1771401,America/Chicago
+387,Algonquin (Township),McHenry County,IL,Illinois,Township,42.19807,-88.27594,847,87697,31547,84694,120267498,4132053,America/Chicago
+388,Arlington Heights,Cook County,IL,Illinois,Village,42.08836,-87.98063,847,75926,30358,81059,42995537,79089,America/Chicago
+389,Aurora,Kendall County/Kane County/Will County/DuPage County,IL,Illinois,City,41.76346,-88.2901,630,200661,61449,63090,116273603,2278285,America/Chicago
+390,Aurora (Township),Kane County,IL,Illinois,Township,41.76887,-88.31893,630,148308,44798,49797,89841331,1727843,America/Chicago
+391,Avon,Lake County,IL,Illinois,Township,42.35277,-88.06133,847,64687,20969,63396,58179566,3501759,America/Chicago
+392,Berwyn,Cook County,IL,Illinois,City,41.85059,-87.79367,708,56368,18291,57355,10112485,0,America/Chicago
+393,Berwyn (Township),Cook County,IL,Illinois,Township,41.84333,-87.79093,708,56368,18291,57355,10112485,0,America/Chicago
+394,Bloom,Cook County,IL,Illinois,Township,41.51591,-87.60098,708,91132,31948,48088,120177524,628793,America/Chicago
+395,Bloomingdale (Township),DuPage County,IL,Illinois,Township,41.94563,-88.08462,630,113024,40097,68474,88284784,3206299,America/Chicago
+396,Bloomington,McLean County,IL,Illinois,City,40.4842,-88.99369,309,78292,31110,62254,70308044,24508,America/Chicago
+397,Bloomington City,McLean County,IL,Illinois,Township,40.47578,-88.96991,309,78292,31110,62254,70308044,24508,America/Chicago
+398,Bolingbrook,Will County/DuPage County,IL,Illinois,Village,41.69112,-88.10157,630,74306,21830,77506,62398764,536671,America/Chicago
+399,Bremen,Cook County,IL,Illinois,Township,41.60156,-87.73503,708,110683,40159,55902,97756706,295143,America/Chicago
+400,Capital,Sangamon County,IL,Illinois,Township,39.79106,-89.64457,217,116358,50476,49925,154319522,16272442,America/Chicago
+401,Champaign,Champaign County,IL,Illinois,City,40.11642,-88.24338,217,86096,33088,42094,58812707,64280,America/Chicago
+402,Champaign City,Champaign County,IL,Illinois,Township,40.11506,-88.27365,217,86096,33088,42094,58812707,64280,America/Chicago
+403,Chicago,Cook County/DuPage County,IL,Illinois,City,41.83755,-87.68184,773,2720546,1035436,48522,588808396,17615206,America/Chicago
+404,Cicero,Cook County,IL,Illinois,Town,41.84559,-87.75394,708,83886,21721,41866,15190700,0,America/Chicago
+405,Cicero (Township),Cook County,IL,Illinois,Township,41.84454,-87.75929,708,83886,21721,41866,15190700,0,America/Chicago
+406,Decatur,Macon County,IL,Illinois,City,39.84031,-88.9548,217,73254,31287,40679,109481509,12133963,America/Chicago
+407,Decatur (Township),Macon County,IL,Illinois,Township,39.8463,-88.95822,217,50930,21348,35606,75341124,5287646,America/Chicago
+408,Des Plaines,Cook County,IL,Illinois,City,42.03336,-87.8834,847,58677,22191,65109,37150630,379921,America/Chicago
+409,Downers Grove (Township),DuPage County,IL,Illinois,Township,41.7543,-87.97753,630,149401,56956,81535,128386816,3508803,America/Chicago
+410,Dundee,Kane County,IL,Illinois,Township,42.11043,-88.30135,847,65946,20816,70658,90738961,2416495,America/Chicago
+411,Du Page,Will County,IL,Illinois,Township,41.68366,-88.08834,630,88783,27285,76058,93921849,1300802,America/Chicago
+412,Elgin,Cook County/Kane County,IL,Illinois,City,42.03964,-88.32171,847,112111,35075,60499,96981130,1272788,America/Chicago
+413,Elgin (Township),Kane County,IL,Illinois,Township,42.0261,-88.31822,847,104288,33089,63609,82722594,1676406,America/Chicago
+414,Elk Grove,Cook County,IL,Illinois,Township,42.0299,-87.97733,847,93295,36308,59394,71391437,1069750,America/Chicago
+415,Evanston,Cook County,IL,Illinois,City,42.04114,-87.69006,847,75527,29263,70041,20148542,57390,America/Chicago
+416,Evanston (Township),Cook County,IL,Illinois,Township,42.04639,-87.69435,847,75527,29263,70041,20148542,57390,America/Chicago
+417,Frankfort (Township),Will County,IL,Illinois,Township,41.5136,-87.84645,815,58934,19051,96853,95349287,52823,America/Chicago
+418,Grafton,McHenry County,IL,Illinois,Township,42.20028,-88.41561,847,54213,17543,95825,92661262,915052,America/Chicago
+419,Hanover,Cook County,IL,Illinois,Township,42.02803,-88.20364,847,101296,32297,73620,86551770,624095,America/Chicago
+420,Hoffman Estates,Cook County/Kane County,IL,Illinois,Village,42.06521,-88.153,630,52138,18154,84583,53921223,466419,America/Chicago
+421,Joliet,Kendall County/Will County,IL,Illinois,City,41.5177,-88.14885,815,147861,46895,60976,166876584,1718805,America/Chicago
+422,Joliet (Township),Will County,IL,Illinois,Township,41.50829,-88.08257,815,87325,29476,43788,91291805,2169856,America/Chicago
+423,Leyden,Cook County,IL,Illinois,Township,41.93807,-87.8685,847,92862,32687,53593,51603321,0,America/Chicago
+424,Libertyville (Township),Lake County,IL,Illinois,Township,42.28417,-87.94521,847,53919,19317,94258,91712931,2833177,America/Chicago
+425,Lisle (Township),DuPage County,IL,Illinois,Township,41.77193,-88.09209,630,119818,45377,86610,91532435,1583080,America/Chicago
+426,Lockport (Township),Will County,IL,Illinois,Township,41.59625,-88.08915,815,60056,20428,60827,93102197,1608475,America/Chicago
+427,Lyons (Township),Cook County,IL,Illinois,Township,41.77475,-87.8596,708,112890,39769,66065,94153993,1462083,America/Chicago
+428,Maine,Cook County,IL,Illinois,Township,42.03353,-87.86441,847,136667,50680,65608,67114018,640546,America/Chicago
+429,Milton,DuPage County,IL,Illinois,Township,41.85857,-88.08948,630,118844,43510,84039,88967140,2353781,America/Chicago
+430,Mount Prospect,Cook County,IL,Illinois,Village,42.06642,-87.93729,847,54747,20290,69520,26795937,89685,America/Chicago
+431,Naperville,Will County/DuPage County,IL,Illinois,City,41.74917,-88.16202,630,147100,50073,109468,100155901,1471160,America/Chicago
+432,Naperville (Township),DuPage County,IL,Illinois,Township,41.76635,-88.2009,630,102708,37133,88282,90385339,2423679,America/Chicago
+433,New Trier,Cook County,IL,Illinois,Township,42.1014,-87.74493,847,56499,19314,149837,41189481,826348,America/Chicago
+434,Niles (Township),Cook County,IL,Illinois,Township,42.03209,-87.75778,847,106229,37478,69857,55058020,0,America/Chicago
+435,Normal,McLean County,IL,Illinois,Town,40.5142,-88.99063,309,54373,19070,52102,48304749,226141,America/Chicago
+436,Normal (Township),McLean County,IL,Illinois,Township,40.53839,-88.98528,309,54383,18955,51761,82541736,226141,America/Chicago
+437,Northfield (Township),Cook County,IL,Illinois,Township,42.10881,-87.83476,847,87799,32220,97047,88751338,950333,America/Chicago
+438,Oak Lawn,Cook County,IL,Illinois,Village,41.71087,-87.75811,708,56781,21527,56185,22198794,59,America/Chicago
+439,Oak Park,Cook County,IL,Illinois,Village,41.88503,-87.7845,708,52287,21612,80196,12172451,0,America/Chicago
+440,Oak Park (Township),Cook County,IL,Illinois,Township,41.88716,-87.78994,708,52287,21612,80196,12172451,0,America/Chicago
+441,Orland,Cook County,IL,Illinois,Township,41.59859,-87.85041,708,99816,35941,82077,92383151,1860231,America/Chicago
+442,Orland Park,Cook County/Will County,IL,Illinois,Village,41.60815,-87.85929,708,58619,22048,81453,56938629,736535,America/Chicago
+443,Oswego (Township),Kendall County,IL,Illinois,Township,41.67577,-88.31799,630,55375,17246,87776,103287695,1644077,America/Chicago
+444,Palatine,Cook County,IL,Illinois,Village,42.1103,-88.03424,847,69308,26242,71573,35271964,370235,America/Chicago
+445,Palatine (Township),Cook County,IL,Illinois,Township,42.11125,-88.0644,847,114057,42938,77545,92499527,989285,America/Chicago
+446,Palos,Cook County,IL,Illinois,Township,41.68774,-87.85,708,54841,20823,59920,87398956,4274345,America/Chicago
+447,Peoria,Peoria County,IL,Illinois,City,40.69365,-89.58899,309,115070,47239,45552,124916605,5748402,America/Chicago
+448,Peoria City,Peoria County,IL,Illinois,Township,40.74495,-89.60964,309,104291,43267,42041,104884817,5748402,America/Chicago
+449,Plainfield (Township),Will County,IL,Illinois,Township,41.59381,-88.19968,815,81678,23935,84786,86725275,4549499,America/Chicago
+450,Proviso,Cook County,IL,Illinois,Township,41.86472,-87.87119,708,151772,54255,53281,76908074,254,America/Chicago
+451,Rich,Cook County,IL,Illinois,Township,41.51529,-87.73338,708,77100,29025,63240,94251248,419073,America/Chicago
+452,Rockford,Winnebago County/Ogle County,IL,Illinois,City,42.25884,-89.06455,815,148278,58559,38716,164382960,2627885,America/Chicago
+453,Rockford (Township),Winnebago County,IL,Illinois,Township,42.24868,-89.07452,815,173110,69780,40391,287475255,4720906,America/Chicago
+454,Schaumburg,Cook County/DuPage County,IL,Illinois,Village,42.02901,-88.08366,630,74693,30011,74086,49947601,292112,America/Chicago
+455,Schaumburg (Township),Cook County,IL,Illinois,Township,42.02911,-88.08951,630,132162,49006,74034,79648612,555721,America/Chicago
+456,Skokie,Cook County,IL,Illinois,Village,42.03336,-87.73339,847,64821,22787,66999,26065833,0,America/Chicago
+457,Springfield,Sangamon County,IL,Illinois,City,39.80172,-89.64371,217,116565,50575,49868,155637192,16272442,America/Chicago
+458,St. Charles (Township),Kane County,IL,Illinois,Township,41.94151,-88.321,630,51812,18766,92472,90236917,1907075,America/Chicago
+459,Thornton (Township),Cook County,IL,Illinois,Township,41.60127,-87.60032,708,169468,62380,41024,121463504,1255264,America/Chicago
+460,Tinley Park,Cook County/Will County,IL,Illinois,Village,41.56858,-87.80422,708,57143,21041,74215,41743331,30829,America/Chicago
+461,Vernon,Lake County,IL,Illinois,Township,42.19779,-87.94553,847,67935,24876,106312,92753877,1049981,America/Chicago
+462,Warren,Lake County,IL,Illinois,Township,42.37285,-87.94653,847,64505,23406,80585,93183939,2038971,America/Chicago
+463,Waukegan,Lake County,IL,Illinois,City,42.36363,-87.84479,847,88475,28826,45845,62648068,575656,America/Chicago
+464,Waukegan (Township),Lake County,IL,Illinois,Township,42.3748,-87.84882,847,90160,29109,40465,54950192,781287,America/Chicago
+465,Wayne (Township),DuPage County,IL,Illinois,Township,41.94095,-88.20373,630,67454,21529,97533,91737993,2750609,America/Chicago
+466,Wheatland,Will County,IL,Illinois,Township,41.68178,-88.20282,630,83950,24542,128509,91886783,881658,America/Chicago
+467,Wheaton,DuPage County,IL,Illinois,City,41.86614,-88.10701,630,53715,19281,85705,29257793,477162,America/Chicago
+468,Wheeling (Township),Cook County,IL,Illinois,Township,42.10987,-87.94458,847,155286,59425,73977,92979678,317743,America/Chicago
+469,Worth (Township),Cook County,IL,Illinois,Township,41.69043,-87.74383,708,152861,56788,54124,82397386,875755,America/Chicago
+470,York,DuPage County,IL,Illinois,Township,41.86177,-87.9761,630,125730,47997,76285,90808706,1568158,America/Chicago
+471,Anderson,Madison County,IN,Indiana,City,40.10532,-85.68025,765,55305,23224,33644,110490774,281325,America/Indiana/Indianapolis
+472,Anderson (Township),Madison County,IN,Indiana,Township,40.08977,-85.68945,765,55551,23286,34981,96237622,247686,America/Indiana/Indianapolis
+473,Bloomington,Monroe County,IN,Indiana,City,39.16533,-86.52639,812,84067,30232,30019,60221613,475857,America/Indiana/Indianapolis
+474,Calumet,Lake County,IN,Indiana,Township,41.58533,-87.35516,219,100453,39770,31332,158624821,19428725,America/Chicago
+475,Carmel,Hamilton County,IN,Indiana,City,39.97837,-86.11804,317,88713,31462,106433,122922264,2798978,America/Indiana/Indianapolis
+476,Center,Delaware County,IN,Indiana,Township,40.19153,-85.38601,765,69064,26656,30568,89310342,695523,America/Indiana/Indianapolis
+477,Center,Marion County,IN,Indiana,Township,39.77485,-86.13949,317,147837,59947,27572,108522566,2102238,America/Indiana/Indianapolis
+478,Clay,Hamilton County,IN,Indiana,Township,39.96548,-86.14837,317,92745,32998,103718,127146404,2813315,America/Indiana/Indianapolis
+479,Concord,Elkhart County,IN,Indiana,Township,41.65183,-85.94312,574,55462,19401,38285,92971376,1798524,America/Indiana/Indianapolis
+480,Elkhart,Elkhart County,IN,Indiana,City,41.68199,-85.97667,574,52348,19232,35371,66139865,2517797,America/Indiana/Indianapolis
+481,Evansville,Vanderburgh County,IN,Indiana,City,37.97476,-87.55585,812,119943,51271,35785,122628548,1274315,America/Chicago
+482,Fairfield,Tippecanoe County,IN,Indiana,Township,40.42871,-86.85277,765,53100,22918,39824,71404602,1274406,America/Indiana/Indianapolis
+483,Fall Creek,Hamilton County,IN,Indiana,Township,39.96392,-85.92802,317,59128,18410,101609,87286888,5340207,America/Indiana/Indianapolis
+484,Fishers,Hamilton County,IN,Indiana,City,39.95559,-86.01387,317,88658,29366,95487,90568356,5813425,America/Indiana/Indianapolis
+485,Fort Wayne,Allen County,IN,Indiana,City,41.1306,-85.12886,260,260326,102273,43774,286488211,549748,America/Indiana/Indianapolis
+486,Franklin,Marion County,IN,Indiana,Township,39.67733,-86.01079,317,56930,19420,63682,109199696,22840,America/Indiana/Indianapolis
+487,Gary,Lake County,IN,Indiana,City,41.59337,-87.34643,219,77156,30814,28020,128776864,19396265,America/Chicago
+488,Greenwood,Johnson County,IN,Indiana,City,39.61366,-86.10665,317,55586,20975,54176,72276415,1883,America/Indiana/Indianapolis
+489,Hammond,Lake County,IN,Indiana,City,41.58337,-87.50004,219,77614,28282,39576,58969795,5485770,America/Chicago
+490,Harrison,Vigo County,IN,Indiana,Township,39.47555,-87.38835,812,51268,19760,30400,59675554,1285182,America/Indiana/Indianapolis
+491,Indianapolis,Marion County.,IN,Indiana,City,39.778,-86.14584,317,862781,316037,51682,949109238,16893545,America/Indiana/Indianapolis
+492,Jeffersonville (Township),Clark County,IN,Indiana,Township,38.31459,-85.73894,812,60853,24048,44987,68815549,831036,America/Kentucky/Louisville
+493,Knight,Vanderburgh County,IN,Indiana,Township,37.96821,-87.49674,812,68081,28952,38154,88551836,1557717,America/Chicago
+494,Kokomo,Howard County,IN,Indiana,City,40.48643,-86.1336,765,57995,25227,37623,94724929,479588,America/Indiana/Indianapolis
+495,Lafayette,Tippecanoe County,IN,Indiana,City,40.4167,-86.87529,765,71111,30447,40419,76330205,0,America/Indiana/Indianapolis
+496,Lawrence (Township),Marion County,IN,Indiana,Township,39.8716,-86.01156,317,123397,48011,50411,121424443,4188930,America/Indiana/Indianapolis
+497,Muncie,Delaware County,IN,Indiana,City,40.19338,-85.38636,765,70087,27390,31044,70981203,510225,America/Indiana/Indianapolis
+498,New Albany (Township),Floyd County,IN,Indiana,Township,38.31527,-85.83185,812,50145,19859,46329,99744029,1266016,America/Kentucky/Louisville
+499,Noblesville,Hamilton County,IN,Indiana,City,40.04559,-86.0086,317,59093,21262,69841,82788895,3660276,America/Indiana/Indianapolis
+500,Noblesville (Township),Hamilton County,IN,Indiana,Township,40.05365,-86.02173,317,56473,20007,71491,121232710,5969186,America/Indiana/Indianapolis
+501,North,Lake County,IN,Indiana,Township,41.61329,-87.47085,219,157105,58240,44334,137725287,14822486,America/Chicago
+502,Penn,St. Joseph County,IN,Indiana,Township,41.64717,-86.13333,574,66367,26845,45519,162512248,2471016,America/Indiana/Indianapolis
+503,Perry,Marion County,IN,Indiana,Township,39.67674,-86.15616,317,113236,44154,44302,118291390,259404,America/Indiana/Indianapolis
+504,Perry,Monroe County,IN,Indiana,Township,39.11904,-86.51979,812,53382,22213,43799,91577113,280736,America/Indiana/Indianapolis
+505,Pike,Marion County,IN,Indiana,Township,39.87571,-86.26625,317,81408,31112,47149,107838062,6181081,America/Indiana/Indianapolis
+506,Pleasant,Johnson County,IN,Indiana,Township,39.58265,-86.095,317,57212,21327,52414,91368354,44811,America/Indiana/Indianapolis
+507,Portage,St. Joseph County,IN,Indiana,Township,41.66997,-86.27628,574,93008,32714,33567,89259849,1139710,America/Indiana/Indianapolis
+508,South Bend,St. Joseph County,IN,Indiana,City,41.68338,-86.25001,574,101516,39448,34523,107226145,1077799,America/Indiana/Indianapolis
+509,St. John (Township),Lake County,IN,Indiana,Township,41.47812,-87.46166,219,67023,24681,76444,101693425,425368,America/Chicago
+510,St. Joseph,Allen County,IN,Indiana,Township,41.13925,-85.05898,260,74550,29704,54692,91909923,104820,America/Indiana/Indianapolis
+511,Terre Haute,Vigo County,IN,Indiana,City,39.4667,-87.41391,812,60825,22261,31817,89481662,1863534,America/Indiana/Indianapolis
+512,Wabash,Tippecanoe County,IN,Indiana,Township,40.47811,-86.95599,765,64995,19942,33279,125995919,1183401,America/Indiana/Indianapolis
+513,Warren,Marion County,IN,Indiana,Township,39.77514,-86.01718,317,103365,38889,41504,125067149,209265,America/Indiana/Indianapolis
+514,Washington,Marion County,IN,Indiana,Township,39.87632,-86.14291,317,137215,58263,50615,125858508,2908711,America/Indiana/Indianapolis
+515,Wayne,Allen County,IN,Indiana,Township,41.05238,-85.16209,260,106185,41596,32194,109127525,317390,America/Indiana/Indianapolis
+516,Wayne,Marion County,IN,Indiana,Township,39.77186,-86.26094,317,142010,52540,35884,126591941,1036389,America/Indiana/Indianapolis
+517,Kansas City,Wyandotte County,KS,Kansas,City,39.11417,-94.62746,913,151306,54629,38749,323260927,9232017,America/Chicago
+518,Lawrence,Douglas County,KS,Kansas,City,38.97167,-95.23525,785,93917,34913,46406,88411388,2040503,America/Chicago
+519,Lenexa,Johnson County,KS,Kansas,City,38.95362,-94.73357,913,52490,20006,75954,88336519,873036,America/Chicago
+520,Manhattan,Riley County/Pottawatomie County,KS,Kansas,City,39.18831,-96.60586,785,56308,20722,43104,49986523,95356,America/Chicago
+521,Olathe,Johnson County,KS,Kansas,City,38.8814,-94.81913,913,134305,45742,77335,157638037,1946472,America/Chicago
+522,Overland Park,Johnson County,KS,Kansas,City,38.98223,-94.67079,913,186515,74830,72463,194562941,1309517,America/Chicago
+523,Shawnee,Johnson County,KS,Kansas,City,39.04167,-94.72024,913,65046,23689,77271,108411317,2603995,America/Chicago
+524,Topeka,Shawnee County,KS,Kansas,City,39.04833,-95.67804,785,127265,52711,42250,159180160,3400123,America/Chicago
+525,Wichita,Sedgwick County,KS,Kansas,City,37.69224,-97.33754,316,389965,150683,45947,415365564,11294497,America/Chicago
+526,Bowling Green,Warren County,KY,Kentucky,City,36.99032,-86.4436,270,63616,23215,35604,99097836,834101,America/Chicago
+527,Lexington-Fayette,Fayette County,KY,Kentucky,Urban County ,38.0498,-84.45855,859,314488,125752,49778,734642357,4922241,America/New York
+528,Louisville,Jefferson County,KY,Kentucky,City,38.25424,-85.75941,502,760026,0,0,159116437,12579358,America/New York
+529,Owensboro,Daviess County,KY,Kentucky,City,37.77422,-87.11333,270,59042,23995,37279,52511422,3597600,America/Chicago
+530,Baton Rouge,East Baton Rouge Parish,LA,Louisiana,City,30.45075,-91.15455,225,228590,88476,39876,222547923,5682680,America/Chicago
+531,Bossier City,Bossier Parish,LA,Louisiana,City,32.51599,-93.73212,318,68094,25540,47342,111133147,2556414,America/Chicago
+532,Kenner,Jefferson Parish,LA,Louisiana,City,29.99409,-90.24174,504,67091,25243,47527,38509845,630274,America/Chicago
+533,Lafayette,Lafayette Parish,LA,Louisiana,City,30.22409,-92.01984,337,127657,50025,46517,139369271,259576,America/Chicago
+534,Lake Charles,Calcasieu Parish,LA,Louisiana,City,30.22659,-93.21738,337,76070,30141,36751,109084594,7216941,America/Chicago
+535,Metairie,Jefferson Parish,LA,Louisiana,CDP,29.984090000000002,-90.15285,504,140074,59557,52421,60144259,109317,America/Chicago
+536,New Orleans,Orleans Parish,LA,Louisiana,City,29.95465,-90.07507,504,389617,153140,36792,438799508,467299606,America/Chicago
+537,Shreveport,Caddo Parish/Bossier Parish,LA,Louisiana,City,32.46688,-93.79219,318,197204,77500,38583,277484105,39395075,America/Chicago
+538,Boston,Suffolk County,MA,Massachusetts,City,42.35843,-71.05977,857,667137,256294,55777,125219114,106849577,America/New York
+539,Brockton,Plymouth County,MA,Massachusetts,City,42.08343,-71.01838,774,95314,32764,47557,55219911,507124,America/New York
+540,Brookline,Norfolk County,MA,Massachusetts,Town,42.32385,-71.142,857,59195,25324,95518,17508399,184972,America/New York
+541,Brookline (CDP),Norfolk County,MA,Massachusetts,CDP,42.33176,-71.12116,857,59016,25324,95518,17508399,184972,America/New York
+542,Cambridge,Middlesex County,MA,Massachusetts,City,42.3751,-71.10561,857,110402,43801,79416,16556713,1861901,America/New York
+543,Chicopee,Hampden County,MA,Massachusetts,City,42.1487,-72.60787,413,56741,22993,47684,59140442,2691137,America/New York
+544,Fall River,Bristol County,MA,Massachusetts,City,41.70149,-71.15505,774,88777,38765,35213,85769409,18424381,America/New York
+545,Framingham,Middlesex County,MA,Massachusetts,Town,42.30791,-71.4362,774,71209,27028,68219,64865527,3789373,America/New York
+546,Framingham (CDP),Middlesex County,MA,Massachusetts,CDP,42.27926,-71.41617,774,69900,27028,68219,64865527,3789373,America/New York
+547,Haverhill,Essex County,MA,Massachusetts,City,42.7762,-71.07728,351,62765,23781,60888,85563034,6889818,America/New York
+548,Lawrence,Essex County,MA,Massachusetts,City,42.70704,-71.16311,351,80231,26494,34852,17946721,1295352,America/New York
+549,Lowell,Middlesex County,MA,Massachusetts,City,42.63342,-71.31617,351,110699,38489,48002,35187375,2442614,America/New York
+550,Lynn,Essex County,MA,Massachusetts,City,42.46676,-70.94949,339,92457,32407,47429,27819751,7206124,America/New York
+551,Malden,Middlesex County,MA,Massachusetts,City,42.4251,-71.06616,339,61068,22914,54896,13066098,98217,America/New York
+552,Medford,Middlesex County,MA,Massachusetts,City,42.41843,-71.10616,339,57403,22129,76445,20978754,1458313,America/New York
+553,New Bedford,Bristol County,MA,Massachusetts,City,41.63622,-70.93421,774,94958,39141,37574,51792301,10707139,America/New York
+554,Newton,Middlesex County,MA,Massachusetts,City,42.33704,-71.20922,857,88817,31077,122080,46180690,843989,America/New York
+555,Peabody,Essex County,MA,Massachusetts,City,42.52787,-70.92866,351,52504,21652,60596,42022243,1504784,America/New York
+556,Plymouth,Plymouth County,MA,Massachusetts,Town,41.89806,-70.62417,774,58890,21945,76835,249729338,97284253,America/New York
+557,Quincy,Norfolk County,MA,Massachusetts,City,42.25288,-71.00227,857,93618,39476,64155,42914903,26768761,America/New York
+558,Revere,Suffolk County,MA,Massachusetts,City,42.40843,-71.01199,339,53422,20486,50886,14752885,11488169,America/New York
+559,Somerville,Middlesex County,MA,Massachusetts,City,42.3876,-71.0995,857,80318,32181,73106,10677911,258982,America/New York
+560,Springfield,Hampden County,MA,Massachusetts,City,42.10148,-72.58981,413,154341,55644,34728,82538680,3142825,America/New York
+561,Taunton,Bristol County,MA,Massachusetts,City,41.9001,-71.08977,774,56789,22035,53058,120960043,4434135,America/New York
+562,Waltham,Middlesex County,MA,Massachusetts,City,42.37649,-71.23561,339,63378,24248,75205,32990719,2654096,America/New York
+563,Weymouth Town,Norfolk County,MA,Massachusetts,City,42.20668,-70.94585000000001,339,55957,22708,69123,43424653,12456851,America/New York
+564,Worcester,Worcester County,MA,Massachusetts,City,42.26259,-71.80229,774,184815,68576,45472,96758525,2814766,America/New York
+565,Aspen Hill,Montgomery County,MD,Maryland,CDP,39.07955,-77.07303,301,51603,17010,83115,24889992,214958,America/New York
+566,Baltimore,Baltimore city,MD,Maryland,City,39.29038,-76.61219,410,621849,242268,42241,209643557,28767622,America/New York
+567,Bethesda,Montgomery County,MD,Maryland,CDP,38.98067,-77.10026,301,62024,25007,144772,34323492,194871,America/New York
+568,Bowie,Prince George's County,MD,Maryland,City,38.94278,-76.73028,301,58025,19885,105959,49107130,236872,America/New York
+569,Columbia,Howard County,MD,Maryland,CDP,39.24038,-76.83942,410,102116,39893,100849,82691135,667179,America/New York
+570,Dundalk,Baltimore County,MD,Maryland,CDP,39.25066,-76.52052,410,62186,23506,49435,33846863,11184924,America/New York
+571,Ellicott City,Howard County,MD,Maryland,CDP,39.26733,-76.79831,410,68507,24341,114916,77599815,317859,America/New York
+572,Frederick,Frederick County,MD,Maryland,City,39.41427,-77.41054,301,69479,26591,64700,59608801,482214,America/New York
+573,Gaithersburg,Montgomery County,MD,Maryland,City,39.14344,-77.20137,301,67456,23550,80734,26572283,337432,America/New York
+574,Germantown,Montgomery County,MD,Maryland,CDP,39.17316,-77.27165,301,88717,31359,84615,44106705,269841,America/New York
+575,Glen Burnie,Anne Arundel County,MD,Maryland,CDP,39.16261,-76.62469,410,67559,26836,61966,44867176,1836786,America/New York
+576,Rockville,Montgomery County,MD,Maryland,City,39.084,-77.15276,301,66980,24755,100239,35180306,92311,America/New York
+577,Silver Spring,Montgomery County,MD,Maryland,CDP,38.99067,-77.02609,301,75748,30684,72887,20424526,75600,America/New York
+578,Towson,Baltimore County,MD,Maryland,CDP,39.4015,-76.60191,410,57146,21059,74828,36651403,353241,America/New York
+579,Waldorf,Charles County,MD,Maryland,CDP,38.62456,-76.93914,301,71358,25438,84848,93879004,626429,America/New York
+580,Portland,Cumberland County,ME,Maine,City,43.66147,-70.25533,207,66881,30119,46280,55801118,124050542,America/New York
+581,Ann Arbor,Washtenaw County,MI,Michigan,City,42.27087,-83.72633,734,117070,47179,55990,72727009,2254528,America/Detroit
+582,Battle Creek,Calhoun County,MI,Michigan,City,42.32115,-85.17971,269,51589,20629,36882,110327932,2941953,America/Detroit
+583,Canton,Wayne County,MI,Michigan,Charter Township,42.30754,-83.48577,734,89879,31505,83943,93522046,76187,America/Detroit
+584,Clinton,Macomb County,MI,Michigan,Charter Township,42.59034,-82.91695,586,99889,42792,48466,72788664,729566,America/Detroit
+585,Dearborn,Wayne County,MI,Michigan,City,42.32226,-83.17631,313,95171,31502,47375,62756768,638955,America/Detroit
+586,Dearborn Heights,Wayne County,MI,Michigan,City,42.33698,-83.27326,313,56145,20646,44620,30402482,22745,America/Detroit
+587,Detroit,Wayne County,MI,Michigan,City,42.33143,-83.04575,313,677116,255740,25764,359360867,10667144,America/Detroit
+588,Farmington Hills,Oakland County,MI,Michigan,City,42.48531,-83.37716,248,81330,34013,71609,86195977,72556,America/Detroit
+589,Flint,Genesee County,MI,Michigan,City,43.01253,-83.68746,810,98310,40260,24862,86496836,1713490,America/Detroit
+590,Georgetown,Ottawa County,MI,Michigan,Charter Township,42.90538,-85.8446,616,50340,17272,62910,85833461,2483310,America/Detroit
+591,Grand Rapids,Kent County,MI,Michigan,City,42.96336,-85.66809,616,195097,73026,40355,115103540,2252017,America/Detroit
+592,Kalamazoo,Kalamazoo County,MI,Michigan,City,42.29171,-85.58723,269,76041,28025,33009,63885312,1128377,America/Detroit
+593,Kentwood,Kent County,MI,Michigan,City,42.86947,-85.64475,616,51357,19860,49612,54140384,130633,America/Detroit
+594,Lansing,Clinton County/Ingham County/Eaton County,MI,Michigan,City,42.71434,-84.55928,517,115056,48414,35563,101329851,1640233,America/Detroit
+595,Livonia,Wayne County,MI,Michigan,City,42.36837,-83.35271,734,94635,37199,70125,92450078,412892,America/Detroit
+596,Macomb,Macomb County,MI,Michigan,Township,42.67403,-82.91677,586,86973,27989,85402,93824550,306013,America/Detroit
+597,Novi,Oakland County,MI,Michigan,City,42.48059,-83.47549,248,58723,23077,82587,78293912,2737533,America/Detroit
+598,Pontiac,Oakland County,MI,Michigan,City,42.63892,-83.29105,248,59917,23566,28505,51725423,812669,America/Detroit
+599,Rochester Hills,Oakland County,MI,Michigan,City,42.65837,-83.14993,248,73424,28046,82112,85003499,233979,America/Detroit
+600,Royal Oak,Oakland County,MI,Michigan,City,42.48948,-83.14465,248,59008,28371,65786,30520220,2761,America/Detroit
+601,Shelby,Macomb County,MI,Michigan,Charter Township,42.6731,-83.03656,586,77643,29464,65404,88827877,2304716,America/Detroit
+602,Southfield,Oakland County,MI,Michigan,City,42.47337,-83.22187,248,73156,32219,49244,68048418,14814,America/Detroit
+603,St. Clair Shores,Macomb County,MI,Michigan,City,42.49698,-82.88881,586,59903,26808,53093,30217542,7080713,America/Detroit
+604,Sterling Heights,Macomb County,MI,Michigan,City,42.58031,-83.0302,586,132052,49444,60089,94553340,753481,America/Detroit
+605,Taylor,Wayne County,MI,Michigan,City,42.24087,-83.26965,313,61568,23742,40545,61116830,95634,America/Detroit
+606,Troy,Oakland County,MI,Michigan,City,42.60559,-83.14993,248,83280,30812,85027,86682873,446701,America/Detroit
+607,Warren,Macomb County,MI,Michigan,City,42.49982,-83.00549,586,135358,53493,43523,89052398,191291,America/Detroit
+608,Waterford,Oakland County,MI,Michigan,Charter Township,42.66198,-83.38792,248,73040,30127,55552,79281617,11868065,America/Detroit
+609,West Bloomfield,Oakland County,MI,Michigan,Charter Township,42.56923,-83.38727,248,65885,24453,91028,69923042,11061879,America/Detroit
+610,Westland,Wayne County,MI,Michigan,City,42.3242,-83.40021,734,82000,33717,44641,52900386,39575,America/Detroit
+611,Wyoming,Kent County,MI,Michigan,City,42.91336,-85.70531,616,75275,27602,46849,63691821,628737,America/Detroit
+612,Ypsilanti (Charter Township),Washtenaw County,MI,Michigan,Charter Township,42.21368,-83.59918,734,54613,22071,45517,77521532,4645700,America/Detroit
+613,Apple Valley,Dakota County,MN,Minnesota,City,44.73191,-93.21772,952,51221,19413,80478,43884096,1771507,America/Chicago
+614,Blaine,Anoka County/Ramsey County,MN,Minnesota,City,45.1705,-93.20607,651,62124,22033,76027,87641152,514376,America/Chicago
+615,Bloomington,Hennepin County,MN,Minnesota,City,44.8408,-93.29828,952,86435,36762,64540,89956904,9592563,America/Chicago
+616,Brooklyn Park,Hennepin County,MN,Minnesota,City,45.09413,-93.35634,763,79149,26758,62974,67553696,1226616,America/Chicago
+617,Burnsville,Dakota County,MN,Minnesota,City,44.76774,-93.27772,952,61481,24856,63649,64360143,5229703,America/Chicago
+618,Coon Rapids,Anoka County,MN,Minnesota,City,45.11997,-93.28773,651,62240,24111,64203,58541348,1914190,America/Chicago
+619,Duluth,St. Louis County,MN,Minnesota,City,46.78327,-92.10658,218,86110,35410,45034,185931391,50847046,America/Chicago
+620,Eagan,Dakota County,MN,Minnesota,City,44.80413,-93.16689,651,66286,25831,82265,80782831,5908950,America/Chicago
+621,Eden Prairie,Hennepin County,MN,Minnesota,City,44.85469,-93.47079,952,63496,24419,97640,84277872,7052445,America/Chicago
+622,Edina,Hennepin County,MN,Minnesota,City,44.88969,-93.34995,952,50138,20881,88298,40021035,1314045,America/Chicago
+623,Lakeville,Dakota County,MN,Minnesota,City,44.64969,-93.24272,952,60633,19595,95130,93578276,4597185,America/Chicago
+624,Maple Grove,Hennepin County,MN,Minnesota,City,45.07246,-93.45579,763,68385,24904,92680,84347844,6429703,America/Chicago
+625,Minneapolis,Hennepin County,MN,Minnesota,City,44.97997,-93.26384,612,410939,168385,51480,139858340,9027529,America/Chicago
+626,Minnetonka,Hennepin County,MN,Minnesota,City,44.9133,-93.50329,952,51669,22676,78589,69730100,5587760,America/Chicago
+627,Plymouth,Hennepin County,MN,Minnesota,City,45.01052,-93.45551,763,75907,30267,85418,84678335,7196860,America/Chicago
+628,Rochester,Olmsted County,MN,Minnesota,City,44.02163,-92.4699,507,112225,43634,64554,141314495,403646,America/Chicago
+629,St. Cloud,Benton County/Stearns County/Sherburne County,MN,Minnesota,City,45.52662,-94.17105,320,67109,25204,45437,103692467,2703505,America/Chicago
+630,St. Paul,Ramsey County,MN,Minnesota,City,44.94441,-93.09327,651,300851,112988,48757,134612878,10884750,America/Chicago
+631,Woodbury,Washington County,MN,Minnesota,City,44.92386,-92.95938,651,67855,24059,99698,90421995,2140269,America/Chicago
+632,Blue Springs,Jackson County,MO,Missouri,City,39.01695,-94.28161,816,54148,19132,63753,57890712,199618,America/Chicago
+633,Columbia,Boone County,MO,Missouri,City,38.95171,-92.33407,573,119108,45024,44907,168320842,689182,America/Chicago
+634,Florissant,St. Louis County,MO,Missouri,City,38.78922,-90.32261,314,52268,21024,50767,32686158,802968,America/Chicago
+635,Independence,Jackson County/Clay County,MO,Missouri,City,39.08547,-94.3521,816,117255,48313,43472,201595640,1162419,America/Chicago
+636,Joplin,Newton County/Jasper County,MO,Missouri,City,37.07636,-94.50121,417,51818,20930,38169,95229725,326318,America/Chicago
+637,Kansas City,Cass County/Platte County/Jackson County/Clay County,MO,Missouri,City,39.12513,-94.55103,816,475378,195033,45821,815780419,10370518,America/Chicago
+638,Lee's Summit,Cass County/Jackson County,MO,Missouri,City,38.9216,-94.38476,816,95094,34056,78377,165171189,5361683,America/Chicago
+639,O'Fallon,St. Charles County,MO,Missouri,City,38.81061,-90.69985,636,85040,29811,78266,76915110,12882,America/Chicago
+640,Springfield,Christian County/Greene County,MO,Missouri,City,37.19415,-93.2913,417,166810,71268,33557,213158276,1530246,America/Chicago
+641,St. Charles,St. Charles County,MO,Missouri,City,38.78394,-90.48123,636,68796,26436,57558,62340640,978502,America/Chicago
+642,St. Joseph,Buchanan County,MO,Missouri,City,39.76861,-94.84663,816,76596,28557,43298,113976888,2022466,America/Chicago
+643,St. Louis,St. Louis city,MO,Missouri,City,38.62727,-90.19789,314,315685,139555,35599,160458044,10670040,America/Chicago
+644,St. Peters,St. Charles County,MO,Missouri,City,38.80033,-90.62651,636,56971,21919,70325,58069832,292,America/Chicago
+645,Gulfport,Harrison County,MS,Mississippi,City,30.36742,-89.09282,228,71856,27948,36474,144074450,21702983,America/Chicago
+646,Jackson,Rankin County/Hinds County/Madison County,MS,Mississippi,City,32.31583,-90.21282,769,170674,62671,32250,287614760,5655837,America/Chicago
+647,Southaven,DeSoto County,MS,Mississippi,City,34.98898,-90.01259,662,52589,18393,58227,106938400,619709,America/Chicago
+648,Billings,Yellowstone County,MT,Montana,City,45.78329,-108.50069,406,110263,44092,51012,113183020,284017,America/Denver
+649,Great Falls,Cascade County,MT,Montana,City,47.50024,-111.30081,406,59638,25194,42896,59356091,1218448,America/Denver
+650,Missoula,Missoula County,MT,Montana,City,46.87215,-113.994,406,71022,29860,41421,75611746,477802,America/Denver
+651,Asheville,Buncombe County,NC,North Carolina,City,35.60095,-82.55402,828,88512,37672,43334,117903570,998463,America/New York
+652,Burlington,Alamance County/Guilford County,NC,North Carolina,City,36.07613,-79.4683,336,52472,21562,36140,75533002,3947235,America/New York
+653,Cary,Chatham County/Wake County,NC,North Carolina,Town,35.78088,-78.81327,919,159769,56034,91579,146322917,2815890,America/New York
+654,Chapel Hill,Durham County/Orange County,NC,North Carolina,Town,35.92812,-79.03742,919,59568,20335,62208,54861359,393225,America/New York
+655,Charlotte,Mecklenburg County,NC,North Carolina,City,35.22709,-80.84313,704,827097,305488,53637,790925550,5215849,America/New York
+656,Concord,Cabarrus County,NC,North Carolina,City,35.40875,-80.57951,704,87696,29921,53587,159888811,92907,America/New York
+657,Durham,Durham County/Orange County/Wake County,NC,North Carolina,City,35.98115,-78.90293,919,257636,100513,50420,284339132,2323182,America/New York
+658,Fayetteville,Cumberland County,NC,North Carolina,City,35.05266,-78.87836,910,201963,78439,43630,382659645,4765966,America/New York
+659,Gastonia,Gaston County,NC,North Carolina,City,35.26208,-81.1873,704,74543,26771,40432,133632658,586643,America/New York
+660,Greensboro,Guilford County,NC,North Carolina,City,36.07264,-79.79198,336,285342,114080,41628,332338206,13707999,America/New York
+661,Greenville,Pitt County,NC,North Carolina,City,35.61266,-77.36635,252,90597,35367,34435,90639335,1957937,America/New York
+662,High Point,Davidson County/Randolph County/Forsyth County/Guilford County,NC,North Carolina,City,35.98998,-79.99047,336,110268,40973,42299,142972062,3925954,America/New York
+663,Huntersville,Mecklenburg County,NC,North Carolina,Town,35.41069,-80.84285,704,52704,18059,90253,104701039,424722,America/New York
+664,Jacksonville,Onslow County,NC,North Carolina,City,34.75405,-77.43024,910,67357,21281,40918,120529992,10865474,America/New York
+665,Raleigh,Durham County/Wake County,NC,North Carolina,City,35.8306,-78.64177,919,451066,170366,55398,375740493,2876470,America/New York
+666,Rocky Mount,Edgecombe County/Nash County,NC,North Carolina,City,35.96851,-77.80829,252,55806,22283,36088,114205456,548539,America/New York
+667,Wilmington,New Hanover County,NC,North Carolina,City,34.22573,-77.94471,910,115933,48425,42128,133663628,3951737,America/New York
+668,Winston-Salem,Forsyth County,NC,North Carolina,City,36.09986,-80.24422,336,241218,93267,39882,343173025,3173027,America/New York
+669,Bismarck,Burleigh County,ND,North Dakota,City,46.80833,-100.78374,701,71167,29716,58901,86390429,991317,America/Chicago
+670,Fargo,Cass County,ND,North Dakota,City,46.87719,-96.7898,701,118523,49962,46175,127714801,0,America/Chicago
+671,Grand Forks,Grand Forks County,ND,North Dakota,City,47.92526,-97.03285,701,57011,23319,46149,69852722,488150,America/Chicago
+672,Bellevue,Sarpy County,NE,Nebraska,City,41.13667,-95.89084,402,55510,20598,57719,42871595,408770,America/Chicago
+673,Grand Island,Hall County,NE,Nebraska,City,40.92501,-98.34201,308,51440,18721,46831,77023269,513964,America/Chicago
+674,Lincoln,Lancaster County,NE,Nebraska,City,40.8,-96.66696,402,277348,107574,49840,238566678,3507136,America/Chicago
+675,Omaha,Douglas County,NE,Nebraska,City,41.25861,-95.93779,402,443885,173764,49896,344973715,9140906,America/Chicago
+676,Manchester,Hillsborough County,NH,New Hampshire,City,42.99564,-71.45479,603,110229,45145,54282,85627013,4850146,America/New York
+677,Nashua,Hillsborough County,NH,New Hampshire,City,42.76537,-71.46757,603,87970,34619,67246,79822530,2353137,America/New York
+678,Bayonne,Hudson County,NJ,New Jersey,City,40.66871,-74.11431,551,66311,25474,54413,15077580,13644570,America/New York
+679,Brick,Ocean County,NJ,New Jersey,Township,40.06177,-74.10956,848,75012,29942,70647,66368874,17074575,America/New York
+680,Camden,Camden County,NJ,New Jersey,City,39.92595,-75.11962,856,76119,24981,25042,23098745,3683834,America/New York
+681,Cherry Hill,Camden County,NJ,New Jersey,Township,39.90461,-74.997,856,71340,26067,92185,62351899,316423,America/New York
+682,Clifton,Passaic County,NJ,New Jersey,City,40.85843,-74.16376,973,86334,29065,67992,29192132,405972,America/New York
+683,East Orange,Essex County,NJ,New Jersey,City,40.76732,-74.20487,973,64949,25526,36921,10172408,0,America/New York
+684,Edison,Middlesex County,NJ,New Jersey,Township,40.50399,-74.34941,848,102701,35198,90515,77862691,1630832,America/New York
+685,Elizabeth,Union County,NJ,New Jersey,City,40.66399,-74.2107,908,129007,39433,43568,31905474,3459587,America/New York
+686,Franklin,Somerset County,NJ,New Jersey,Township,40.47687,-74.55045,848,66158,23632,90949,119580825,1850879,America/New York
+687,Gloucester,Camden County,NJ,New Jersey,Township,39.79219,-75.03606,856,63939,23354,71963,59452907,882737,America/New York
+688,Hamilton,Mercer County,NJ,New Jersey,Township,40.20627,-74.67527,609,89030,33496,70996,102028629,2407916,America/New York
+689,Hoboken,Hudson County,NJ,New Jersey,City,40.74399,-74.03236,551,53635,24579,114381,3238025,1942200,America/New York
+690,Howell,Monmouth County,NJ,New Jersey,Township,40.18205,-74.19852,848,52104,17638,93733,156847674,1689058,America/New York
+691,Irvington,Essex County,NJ,New Jersey,Township,40.72386,-74.23252,973,54580,20062,36782,7547773,5417,America/New York
+692,Jackson,Ocean County,NJ,New Jersey,Township,40.0908,-74.36126,848,56416,20131,84871,256852907,3574864,America/New York
+693,Jersey City,Hudson County,NJ,New Jersey,City,40.72816,-74.07764,551,264290,99058,59537,38318201,16417392,America/New York
+694,Lakewood,Ocean County,NJ,New Jersey,CDP,40.09789,-74.21764,848,51944,10395,37976,18335789,634460,America/New York
+695,Lakewood (Township),Ocean County,NJ,New Jersey,Township,40.07706,-74.20037,848,99262,24256,40983,63922604,1031279,America/New York
+696,Middletown,Monmouth County,NJ,New Jersey,Township,40.40709,-74.06984,848,66024,23674,102474,106062802,46023393,America/New York
+697,Newark,Essex County,NJ,New Jersey,City,40.73566,-74.17237,973,281944,92675,33139,62531085,4509710,America/New York
+698,New Brunswick,Middlesex County,NJ,New Jersey,City,40.48622,-74.45182,848,57035,14329,38435,13552822,1348697,America/New York
+699,North Bergen,Hudson County,NJ,New Jersey,Township,40.79416,-74.02495,551,62993,21676,55222,13301694,1128246,America/New York
+700,Old Bridge (Township),Middlesex County,NJ,New Jersey,Township,40.40463,-74.30854,848,67215,24033,83750,98889327,7111492,America/New York
+701,Parsippany-Troy Hills,Morris County,NJ,New Jersey,Township,40.85964,-74.42335,973,53641,19745,89385,60892028,4762327,America/New York
+702,Passaic,Passaic County,NJ,New Jersey,City,40.85677,-74.12848,973,71085,19802,31832,8114285,279802,America/New York
+703,Paterson,Passaic County,NJ,New Jersey,City,40.91677,-74.17181,973,147754,43037,32915,21790122,762701,America/New York
+704,Perth Amboy,Middlesex County,NJ,New Jersey,City,40.50677,-74.26542,848,52682,16269,44024,12174994,3168582,America/New York
+705,Piscataway,Middlesex County,NJ,New Jersey,Township,40.54564,-74.46082,848,58069,16609,88494,48653949,454126,America/New York
+706,Plainfield,Union County,NJ,New Jersey,City,40.63371,-74.40737,908,51217,14898,54500,15434485,24155,America/New York
+707,Toms River,Ocean County,NJ,New Jersey,CDP,39.95373,-74.19792,848,89459,33222,72196,101105740,4623453,America/New York
+708,Toms River (Township),Ocean County,NJ,New Jersey,Township,39.99426,-74.16615,848,90817,34605,71960,105099011,31878165,America/New York
+709,Trenton,Mercer County,NJ,New Jersey,City,40.21705,-74.74294,609,84225,27844,34257,19589280,1659888,America/New York
+710,Union,Union County,NJ,New Jersey,Township,40.69527,-74.26908,908,58128,20522,75742,23441475,81707,America/New York
+711,Union City,Hudson County,NJ,New Jersey,City,40.77955,-74.02375,551,69156,23029,41107,3333346,0,America/New York
+712,Vineland,Cumberland County,NJ,New Jersey,City,39.48623,-75.02573,856,60818,20825,49453,177137138,1541990,America/New York
+713,Wayne,Passaic County,NJ,New Jersey,Township,40.94585,-74.24508,973,55210,18102,106357,61465114,3647990,America/New York
+714,West New York,Hudson County,NJ,New Jersey,Town,40.78788,-74.01431,551,53366,19161,45370,2575149,864403,America/New York
+715,Woodbridge (Township),Middlesex County,NJ,New Jersey,Township,40.56073,-74.2927,848,102105,33375,79720,60235960,3515266,America/New York
+716,Albuquerque,Bernalillo County,NM,New Mexico,City,35.08449,-106.65114,505,559121,222098,47030,487357375,4655624,America/Denver
+717,Las Cruces,DoÃƒÂ±a Ana County,NM,New Mexico,City,32.31232,-106.77834,575,101643,38925,41330,199270395,250842,America/Denver
+718,Rio Rancho,Sandoval County/Bernalillo County,NM,New Mexico,City,35.28507,-106.69887,505,94171,32511,60893,267988009,828097,America/Denver
+719,Santa Fe,Santa Fe County,NM,New Mexico,City,35.68698,-105.9378,505,84099,35592,50737,135094735,484399,America/Denver
+720,Carson City,Carson City,NV,Nevada,Other,39.1638,-119.7674,775,54521,21594,47668,374669606,32587484,America/Los Angeles
+721,Enterprise,Clark County,NV,Nevada,CDP,36.02525,-115.24194,702,124564,43699,68137,120207609,0,America/Los Angeles
+722,Henderson,Clark County,NV,Nevada,City,36.0397,-114.98194,702,285667,104492,63120,271160947,1272345,America/Los Angeles
+723,Las Vegas,Clark County,NV,Nevada,City,36.17497,-115.13722,702,623747,215614,50202,348034258,133982,America/Los Angeles
+724,North Las Vegas,Clark County,NV,Nevada,City,36.19886,-115.1175,702,234807,68686,52511,253858818,112001,America/Los Angeles
+725,Paradise,Clark County,NV,Nevada,CDP,36.09719,-115.14666,702,223182,88401,43911,121034884,0,America/Los Angeles
+726,Reno,Washoe County,NV,Nevada,City,39.52963,-119.8138,775,241445,92283,47012,277887963,7380237,America/Los Angeles
+727,Sparks,Washoe County,NV,Nevada,City,39.534909999999996,-119.75269,775,96094,34986,52795,93677383,435342,America/Los Angeles
+728,Spring Valley,Clark County,NV,Nevada,CDP,36.10803,-115.245,702,183937,70748,50192,86125947,0,America/Los Angeles
+729,Sunrise Manor,Clark County,NV,Nevada,CDP,36.21108,-115.07306,702,187647,60366,39586,86444651,0,America/Los Angeles
+730,Albany,Albany County,NY,New York,City,42.65258,-73.75623,518,98469,40283,40949,55395227,1418568,America/New York
+731,Amherst,Erie County,NY,New York,Town,43.01164,-78.75715,716,125109,49558,68294,137777476,1003270,America/New York
+732,Babylon (Town),Suffolk County,NY,New York,Town,40.64092,-73.31669,631,213776,68789,80327,135481314,160302131,America/New York
+733,Brentwood,Suffolk County,NY,New York,CDP,40.78121,-73.24623,631,59436,13786,70139,28403434,0,America/New York
+734,Brookhaven,Suffolk County,NY,New York,Town,40.85745,-72.95984,631,489278,161116,87040,671934794,704749682,America/New York
+735,Brooklyn,Kings County,NY,New York,Borough,40.62472,-73.95222,347,2636735,880727,32135,180000000,70000000,America/New York
+736,Buffalo,Erie County,NY,New York,City,42.88645,-78.87837,716,258071,110549,31918,104592941,31362925,America/New York
+737,Cheektowaga,Erie County,NY,New York,Town,42.91002,-78.74182,716,87514,38912,48662,76228647,162756,America/New York
+738,Cheektowaga (CDP),Erie County,NY,New York,CDP,42.90339,-78.75475,716,74967,33288,48508,65674395,146522,America/New York
+739,Clarkstown,Rockland County,NY,New York,Town,41.13418,-73.96573,845,87210,29518,104050,99629324,22277644,America/New York
+740,Clay,Onondaga County,NY,New York,Town,43.1787,-76.19211,315,59878,23497,64717,124210048,2334018,America/New York
+741,Colonie (Town),Albany County,NY,New York,Town,42.74333,-73.7856,518,83661,31991,71658,144904719,4906368,America/New York
+742,Greece,Monroe County,NY,New York,Town,43.25035,-77.70052,716,96796,39934,55061,123082340,10026963,America/New York
+743,Greenburgh,Westchester County,NY,New York,Town,41.02928,-73.84285,914,92029,32764,115754,78500191,15034965,America/New York
+744,Hamburg (Town),Erie County,NY,New York,Town,42.73911,-78.85713,716,58022,23895,62383,107025337,71731,America/New York
+745,Hempstead,Nassau County,NY,New York,Village,40.70621,-73.61874,516,55547,15863,55417,9540863,12386,America/New York
+746,Hempstead (Town),Nassau County,NY,New York,Town,40.63396,-73.6091,516,771018,241539,94999,307389025,189288363,America/New York
+747,Huntington,Suffolk County,NY,New York,Town,40.88409,-73.37676,631,204398,69000,105451,243808665,111325968,America/New York
+748,Irondequoit,Monroe County,NY,New York,Town,43.20981,-77.57206,716,50985,22203,54275,38824918,4747986,America/New York
+749,Irondequoit (CDP),Monroe County,NY,New York,CDP,43.2134,-77.57972,716,51594,22203,54275,38824918,4747986,America/New York
+750,Islip,Suffolk County,NY,New York,Town,40.71258,-73.19552,631,336113,101387,86864,268844871,153259682,America/New York
+751,Levittown,Nassau County,NY,New York,CDP,40.72593,-73.51429,516,52485,16454,98810,17640421,64664,America/New York
+752,Manhattan,New York County,NY,New York,Borough,40.72833,-73.99417,212,1644518,738644,47030,59100000,28000000,America/New York
+753,Mount Vernon,Westchester County,NY,New York,City,40.9126,-73.83708,914,68628,24989,50952,11358864,44579,America/New York
+754,New Rochelle,Westchester County,NY,New York,City,40.91149,-73.78235,914,79846,28279,70036,26807094,7472696,America/New York
+755,New York City,Richmond County/Queens County/Kings County/New York County/Bronx County,NY,New York,City,40.66347,-73.9387,718,8550405,3113535,53373,780785193,431834008,America/New York
+756,North Hempstead,Nassau County,NY,New York,Town,40.80336,-73.6784,516,230614,76523,104698,138598541,40538082,America/New York
+757,Orangetown,Rockland County,NY,New York,Town,41.05369,-73.94809,845,50479,17922,92257,62323817,18826240,America/New York
+758,Oyster Bay,Nassau County,NY,New York,Town,40.80049,-73.51056,516,298768,98509,112162,268689279,170041808,America/New York
+759,Queens,Queens County,NY,New York,Borough,40.75,-73.86667,718,2339150,782664,42439,109000000,70000000,America/New York
+760,Ramapo,Rockland County,NY,New York,Town,41.14077,-74.10498,845,135257,34566,66911,158352484,1803573,America/New York
+761,Rochester,Monroe County,NY,New York,City,43.15478,-77.61556,716,209802,85741,30960,92678538,3546651,America/New York
+762,Schenectady,Schenectady County,NY,New York,City,42.81424,-73.93957,518,65305,24087,40755,27951010,479428,America/New York
+763,Smithtown,Suffolk County,NY,New York,Town,40.91922,-73.17912,631,118275,39425,112693,139096977,149547375,America/New York
+764,Southampton (Town),Suffolk County,NY,New York,Town,40.84989,-72.46349,631,58254,21064,79799,360513778,400189747,America/New York
+765,Staten Island,Richmond County,NY,New York,Borough,40.57628,-74.14484,718,474558,156341,55039,152000000,110000000,America/New York
+766,Syracuse,Onondaga County,NY,New York,City,43.04812,-76.14742,315,144142,54781,31881,64867329,1463257,America/New York
+767,The Bronx,Bronx County,NY,New York,Borough,40.83722,-73.88611,347,1455444,523690,34299,110000000,40000000,America/New York
+768,Tonawanda (CDP),Erie County,NY,New York,CDP,43.02033,-78.88032,716,58204,25691,54345,44804907,3998029,America/New York
+769,Tonawanda (Town),Erie County,NY,New York,Town,42.98337,-78.87567,716,72937,32723,53760,48523623,3998029,America/New York
+770,Union,Broome County,NY,New York,Town,42.12662,-76.03324,607,54995,23992,45958,91859649,1436845,America/New York
+771,Utica,Oneida County,NY,New York,City,43.1009,-75.23266,315,61100,23622,30504,43404629,662077,America/New York
+772,White Plains,Westchester County,NY,New York,City,41.03399,-73.76291,914,58459,21877,80442,25298441,303058,America/New York
+773,Yonkers,Westchester County,NY,New York,City,40.93121,-73.89875,914,201116,73073,59049,46651457,5916223,America/New York
+774,Akron,Summit County,OH,Ohio,City,41.08144,-81.51901,330,197542,83684,34512,160659689,880527,America/New York
+775,Beavercreek (Township),Greene County,OH,Ohio,Township,39.72765,-84.03425,937,53427,21060,85670,126434953,1187375,America/New York
+776,Canton,Stark County,OH,Ohio,City,40.79895,-81.37845,330,71885,30220,29418,66843044,40504,America/New York
+777,Cincinnati,Hamilton County,OH,Ohio,City,39.162,-84.45689,513,298550,133039,33604,200434440,4155432,America/New York
+778,Cleveland,Cuyahoga County,OH,Ohio,City,41.4995,-81.69541,216,388072,167100,26150,201255242,12332080,America/New York
+779,Colerain,Hamilton County,OH,Ohio,Township,39.25479,-84.62414,513,58838,22193,56299,110938846,901289,America/New York
+780,Columbus,Delaware County/Franklin County/Fairfield County,OH,Ohio,City,39.98524,-82.98477,614,850106,334724,45659,565783587,15247719,America/New York
+781,Dayton,Montgomery County,OH,Ohio,City,39.75895,-84.19161,937,140599,57316,27683,144197693,2208312,America/New York
+782,Elyria,Lorain County,OH,Ohio,City,41.36838,-82.10765,440,53775,22551,40952,53279999,709543,America/New York
+783,Green,Hamilton County,OH,Ohio,Township,39.16502,-84.64162,513,58697,22813,70092,73493158,863,America/New York
+784,Hamilton,Butler County,OH,Ohio,City,39.3995,-84.56134,513,62407,23849,40427,55600338,1102113,America/New York
+785,Kettering,Greene County/Montgomery County,OH,Ohio,City,39.69599,-84.15044,937,55525,25089,50608,48449409,102985,America/New York
+786,Lakewood,Cuyahoga County,OH,Ohio,City,41.48199,-81.79819,216,50656,24534,45408,14335254,3002656,America/New York
+787,Lorain,Lorain County,OH,Ohio,City,41.45282,-82.18237,440,63647,25218,35042,61313519,1228516,America/New York
+788,Miami,Montgomery County,OH,Ohio,Township,39.62657,-84.26395,937,50644,21873,51252,87744857,1036343,America/New York
+789,Parma,Cuyahoga County,OH,Ohio,City,41.40477,-81.72291,440,79937,33393,50440,51865151,127544,America/New York
+790,Plain,Stark County,OH,Ohio,Township,40.8686,-81.36892,330,52710,21793,53010,70706745,423066,America/New York
+791,Springfield,Clark County,OH,Ohio,City,39.92423,-83.80882,937,59680,24558,32066,66171383,520462,America/New York
+792,Toledo,Lucas County,OH,Ohio,City,41.66394,-83.55521,419,279789,117531,33687,209065315,8887951,America/New York
+793,Washington,Montgomery County,OH,Ohio,Township,39.62596,-84.1613,937,56589,24453,69520,80748733,225114,America/New York
+794,West Chester,Butler County,OH,Ohio,Township,39.34021,-84.41716,513,63077,22537,79252,91872095,48577,America/New York
+795,Youngstown,Trumbull County/Mahoning County,OH,Ohio,City,41.0991,-80.6459,330,64628,26731,24133,87970293,1644959,America/New York
+796,Broken Arrow,Wagoner County/Tulsa County,OK,Oklahoma,City,36.03653,-95.781,918,106563,37246,67131,159889421,1579677,America/Chicago
+797,Edmond,Oklahoma County,OK,Oklahoma,City,35.65283,-97.4781,405,90092,32601,71974,219359713,8188424,America/Chicago
+798,Enid,Garfield County,OK,Oklahoma,City,36.39559,-97.87839,580,51776,19531,46365,191541092,214073,America/Chicago
+799,Lawton,Comanche County,OK,Oklahoma,City,34.60869,-98.39033,580,96655,33255,42493,209876261,0,America/Chicago
+800,Midwest City,Oklahoma County,OK,Oklahoma,City,35.44951,-97.3967,405,57249,23206,44578,63203155,36659,America/Chicago
+801,Moore,Cleveland County,OK,Oklahoma,City,35.33951,-97.4867,405,60451,21759,58169,56539676,845234,America/Chicago
+802,Norman,Cleveland County,OK,Oklahoma,City,35.22257,-97.43948,405,120284,44911,51491,463011592,27576719,America/Chicago
+803,Oklahoma City,Canadian County/Pottawatomie County/Oklahoma County/Cleveland County,OK,Oklahoma,City,35.46708,-97.51366,405,631346,232254,47779,1570317627,37245501,America/Chicago
+804,Tulsa,Rogers County/Wagoner County/Osage County/Tulsa County,OK,Oklahoma,City,36.12795,-95.90232,918,403505,164471,42284,509834953,10955689,America/Chicago
+805,Albany,Benton County/Linn County,OR,Oregon,City,44.62693,-123.09674,541,52175,19729,47150,45420998,545915,America/Los Angeles
+806,Aloha,Washington County,OR,Oregon,CDP,45.49428,-122.86705,503,52902,17144,65765,19062307,0,America/Los Angeles
+807,Beaverton,Washington County,OR,Oregon,City,45.48706,-122.80371,503,96577,37238,56882,50563936,0,America/Los Angeles
+808,Bend,Deschutes County,OR,Oregon,City,44.05817,-121.31531,541,87014,33396,52989,85483185,660862,America/Los Angeles
+809,Corvallis,Benton County,OR,Oregon,City,44.56457,-123.26204,541,55780,21588,42488,36886730,330544,America/Los Angeles
+810,Eugene,Lane County,OR,Oregon,City,44.05207,-123.08675,541,163460,66093,43101,114273476,58974,America/Los Angeles
+811,Gresham,Multnomah County,OR,Oregon,City,45.49818,-122.43148,503,110553,38773,46956,60342997,532750,America/Los Angeles
+812,Hillsboro,Washington County,OR,Oregon,City,45.52289,-122.98983,503,102347,35284,67757,64707200,31207,America/Los Angeles
+813,Medford,Jackson County,OR,Oregon,City,42.32652,-122.87559,541,79805,29751,41931,66723120,16210,America/Los Angeles
+814,Portland,Clackamas County/Multnomah County/Washington County,OR,Oregon,City,45.53695,-122.64997,503,632309,254167,55003,345657944,30147582,America/Los Angeles
+815,Salem,Marion County/Polk County,OR,Oregon,City,44.92371,-123.02319,503,164549,57729,47191,125786966,1433926,America/Los Angeles
+816,Springfield,Lane County,OR,Oregon,City,44.04624,-123.02203,541,60870,24002,39729,40881564,29713,America/Los Angeles
+817,Tigard,Washington County,OR,Oregon,City,45.43123,-122.77149,503,51253,19897,62048,33019594,10496,America/Los Angeles
+818,Abington,Montgomery County,PA,Pennsylvania,Township,40.11242,-75.11564,445,55590,20911,77014,40200007,613,America/New York
+819,Allentown,Lehigh County,PA,Pennsylvania,City,40.60843,-75.49018,610,120207,41244,36930,45448161,1238395,America/New York
+820,Bensalem,Bucks County,PA,Pennsylvania,Township,40.10622,-74.94364,445,60374,23677,60147,51372224,2834246,America/New York
+821,Bethlehem,Lehigh County/Northampton County,PA,Pennsylvania,City,40.62642,-75.3679,610,74892,29144,47291,49473428,906820,America/New York
+822,Bristol (Township),Bucks County,PA,Pennsylvania,Township,40.12364,-74.86738,445,54086,19619,57678,41150883,3169234,America/New York
+823,Erie,Erie County,PA,Pennsylvania,City,42.12922,-80.08506,814,99475,41131,34253,49558861,404131,America/New York
+824,Lancaster,Lancaster County,PA,Pennsylvania,City,40.03788,-76.30551,717,59339,21356,35313,18718450,330105,America/New York
+825,Levittown,Bucks County,PA,Pennsylvania,CDP,40.15511,-74.82877,445,51326,18095,69878,26311722,253129,America/New York
+826,Lower Merion,Montgomery County,PA,Pennsylvania,Township,40.02991,-75.27897,610,58177,22476,118704,61309307,415713,America/New York
+827,Millcreek,Erie County,PA,Pennsylvania,Township,42.08594,-80.1199,814,54003,22351,56099,83073688,1861216,America/New York
+828,Philadelphia,Philadelphia County,PA,Pennsylvania,City,39.95234,-75.16379,445,1567442,581050,38253,347519465,22089787,America/New York
+829,Pittsburgh,Allegheny County,PA,Pennsylvania,City,40.44062,-79.99589,412,304391,132468,40715,143423857,7692318,America/New York
+830,Reading,Berks County,PA,Pennsylvania,City,40.33565,-75.92687,610,87879,30090,26784,25567073,668285,America/New York
+831,Scranton,Lackawanna County,PA,Pennsylvania,City,41.40897,-75.66241,570,77118,28946,37218,65550826,592027,America/New York
+832,Upper Darby,Delaware County,PA,Pennsylvania,Township,39.94901,-75.28912,610,82878,30226,49783,20267658,0,America/New York
+833,Cranston,Providence County,RI,Rhode Island,City,41.77982,-71.43728,401,81073,30208,59701,73400872,4145372,America/New York
+834,Pawtucket,Providence County,RI,Rhode Island,City,41.87871,-71.38256,401,71591,27979,41789,22553277,780043,America/New York
+835,Providence,Providence County,RI,Rhode Island,City,41.82399,-71.41283,401,179207,61481,37501,47655935,5618032,America/New York
+836,Warwick,Kent County,RI,Rhode Island,City,41.7001,-71.41617,401,81699,34891,66044,90752667,38210709,America/New York
+837,Charleston,Berkeley County/Charleston County,SC,South Carolina,City,32.81793,-79.95896,843,132609,52450,55546,282372739,47927393,America/New York
+838,Columbia,Lexington County/Richland County,SC,South Carolina,City,34.0291,-80.89804,803,133803,44506,41260,345805347,6998722,America/New York
+839,Greenville,Greenville County,SC,South Carolina,City,34.85262,-82.39401,864,64579,26636,41924,74913028,364965,America/New York
+840,Mount Pleasant,Charleston County,SC,South Carolina,Town,32.79407,-79.86259,843,81317,30007,77638,116880751,19480791,America/New York
+841,North Charleston,Dorchester County/Berkeley County/Charleston County,SC,South Carolina,City,32.91782,-80.06503,843,108304,37597,39543,190807625,8969264,America/New York
+842,Rock Hill,York County,SC,South Carolina,City,34.92487,-81.02508,803,71548,27431,40396,96621121,454658,America/New York
+843,Rapid City,Pennington County,SD,South Dakota,City,44.08054,-103.23101,605,73569,28721,46966,141011704,204525,America/Denver
+844,Sioux Falls,Minnehaha County/Lincoln County,SD,South Dakota,City,43.53834,-96.732,605,171544,65538,52494,195275757,1354349,America/Chicago
+845,Bartlett,Shelby County,TN,Tennessee,City,35.20453,-89.87398,901,58579,19881,81158,83594708,46919,America/Chicago
+846,Chattanooga,Hamilton County,TN,Tennessee,City,35.04563,-85.30968,423,176588,70228,40177,370573763,19930234,America/New York
+847,Clarksville,Montgomery County,TN,Tennessee,City,36.52977,-87.35945,931,149176,51776,46947,254527982,1754875,America/Chicago
+848,Franklin,Williamson County,TN,Tennessee,City,35.92506,-86.86889,615,72639,26228,85671,107592083,557640,America/Chicago
+849,Hendersonville,Sumner County,TN,Tennessee,City,36.30477,-86.62,615,56018,20898,61786,81370717,14475269,America/Chicago
+850,Jackson,Madison County,TN,Tennessee,City,35.61452,-88.81395,731,66975,25128,38153,151387241,29674,America/Chicago
+851,Johnson City,Carter County/Washington County/Sullivan County,TN,Tennessee,City,36.34233,-82.38091,423,66027,27714,39566,111347142,807175,America/New York
+852,Kingsport,Hawkins County/Sullivan County,TN,Tennessee,City,36.51989,-82.54464,423,53014,23615,37465,138489909,2412161,America/New York
+853,Knoxville,Knox County,TN,Tennessee,City,35.96064,-83.92074,865,185291,81073,34226,255161763,14631856,America/New York
+854,Memphis,Shelby County,TN,Tennessee,City,35.14953,-90.04898,901,655770,249775,36445,822013083,23171205,America/Chicago
+855,Murfreesboro,Rutherford County,TN,Tennessee,City,35.84562,-86.39027,615,126118,44518,51094,144718226,387261,America/Chicago
+856,Nashville,Davidson County,TN,Tennessee,Metropolitan Government,36.16913,-86.78479,615,678889,248677,41759,1304953365,56649279,America/Chicago
+857,Abilene,Jones County/Taylor County,TX,Texas,City,32.45451,-99.73815,325,121721,42348,43189,276322592,14012163,America/Chicago
+858,Allen,Collin County,TX,Texas,City,33.10317,-96.67055,972,98143,30015,103051,68346288,250894,America/Chicago
+859,Amarillo,Randall County/Potter County,TX,Texas,City,35.19988,-101.8302,806,198645,74769,47735,262507124,4049009,America/Chicago
+860,Arlington,Tarrant County,TX,Texas,City,32.73569,-97.10807,682,388125,133808,53326,248200304,9682817,America/Chicago
+861,Atascocita,Harris County,TX,Texas,CDP,29.99883,-95.1766,832,69470,21812,84982,62552086,449664,America/Chicago
+862,Austin,Hays County/Williamson County/Travis County,TX,Texas,City,30.30394,-97.75436,512,931830,351195,57689,809976356,17536404,America/Chicago
+863,Baytown,Harris County/Chambers County,TX,Texas,City,29.75937,-94.96296,832,76335,25793,48103,99850842,2845132,America/Chicago
+864,Beaumont,Jefferson County,TX,Texas,City,30.08605,-94.10185,409,118129,46193,40992,212750142,7553306,America/Chicago
+865,Brownsville,Cameron County,TX,Texas,City,25.90175,-97.49748,956,183887,51563,32894,343092656,35763836,America/Chicago
+866,Bryan,Brazos County,TX,Texas,City,30.67436,-96.36996,979,82118,28924,40312,117924231,245808,America/Chicago
+867,Carrollton,Collin County/Denton County/Dallas County,TX,Texas,City,32.98836,-96.89977,972,133168,45263,69368,93959417,2048329,America/Chicago
+868,Cedar Park,Williamson County/Travis County,TX,Texas,City,30.51457,-97.81922,512,65945,19891,82311,61485371,484079,America/Chicago
+869,College Station,Brazos County,TX,Texas,City,30.62798,-96.33441,979,107889,36175,34186,132070745,369349,America/Chicago
+870,Conroe,Montgomery County,TX,Texas,City,30.31188,-95.45605,936,68602,22350,47680,180291813,1856257,America/Chicago
+871,Corpus Christi,Aransas County/Kleberg County/Nueces County/San Patricio County,TX,Texas,City,27.75425,-97.17339,361,324074,114817,50658,452109961,852118618,America/Chicago
+872,Dallas,Rockwall County/Kaufman County/Collin County/Denton County/Dallas County,TX,Texas,City,32.79333,-96.76651,972,1300092,477249,43781,882933616,113644009,America/Chicago
+873,Denton,Denton County,TX,Texas,City,33.21484,-97.13307,940,131044,43745,49100,241927463,4345974,America/Chicago
+874,DeSoto,Dallas County,TX,Texas,City,32.58986,-96.85695,972,52486,18907,59260,56029492,86404,America/Chicago
+875,Edinburg,Hidalgo County,TX,Texas,City,26.30174,-98.16334,956,84497,23953,43346,103800716,149098,America/Chicago
+876,El Paso,El Paso County,TX,Texas,City,31.75872,-106.48693,915,681124,220682,42772,665041415,2247591,America/Denver
+877,Euless,Tarrant County,TX,Texas,City,32.83707,-97.08195,682,54219,21119,54974,41878653,202552,America/Chicago
+878,Flower Mound,Tarrant County/Denton County,TX,Texas,Town,33.0379,-97.11287,972,71253,22231,122999,108528438,6523120,America/Chicago
+879,Fort Worth,Parker County/Johnson County/Tarrant County/Wise County/Denton County,TX,Texas,City,32.78152,-97.34675,682,833319,273457,53214,888054781,21556246,America/Chicago
+880,Frisco,Collin County/Denton County,TX,Texas,City,33.15543,-96.8226,972,154407,45452,114098,175272056,1449212,America/Chicago
+881,Galveston,Galveston County,TX,Texas,City,29.30139,-94.79778,409,50180,20320,39098,106576926,435622677,America/Chicago
+882,Garland,Rockwall County/Collin County/Dallas County,TX,Texas,City,32.90983,-96.63033,972,236897,74912,51970,147728408,324680,America/Chicago
+883,Georgetown,Williamson County,TX,Texas,City,30.63269,-97.67723,512,63716,22665,63041,134870286,5860683,America/Chicago
+884,Grand Prairie,Tarrant County/Ellis County/Dallas County,TX,Texas,City,32.68695,-97.0211,972,187809,59196,56475,187154949,23055080,America/Chicago
+885,Grapevine,Tarrant County/Denton County/Dallas County,TX,Texas,City,32.93411,-97.07653,682,51404,19366,79083,82810401,9379429,America/Chicago
+886,Harlingen,Cameron County,TX,Texas,City,26.19063,-97.6961,956,65774,20599,34466,103676438,1281515,America/Chicago
+887,Houston,Fort Bend County/Harris County/Montgomery County,TX,Texas,City,29.78664,-95.3909,832,2296224,814599,46187,1651228436,73316071,America/Chicago
+888,Irving,Dallas County,TX,Texas,City,32.81402,-96.94889,972,236607,83649,52154,173638538,2582657,America/Chicago
+889,Killeen,Bell County,TX,Texas,City,31.11712,-97.7278,254,140806,46952,47763,138670219,1727829,America/Chicago
+890,Laredo,Webb County,TX,Texas,City,27.50641,-99.50754,956,255473,66308,39711,261900969,3788915,America/Chicago
+891,League City,Galveston County/Harris County,TX,Texas,City,29.49006,-95.10909,832,98312,32840,93675,132558943,4426819,America/Chicago
+892,Lewisville,Denton County/Dallas County,TX,Texas,City,33.04655,-96.98183,972,104039,38430,57267,94986734,15721445,America/Chicago
+893,Longview,Harrison County/Gregg County,TX,Texas,City,32.51934,-94.76459,903,82287,30577,44544,144240687,262863,America/Chicago
+894,Lubbock,Lubbock County,TX,Texas,City,33.57786,-101.85517,806,249042,90433,44648,322793416,2955879,America/Chicago
+895,Mansfield,Johnson County/Tarrant County/Ellis County,TX,Texas,City,32.56919,-97.12053,682,64274,20336,90089,94883095,113126,America/Chicago
+896,McAllen,Hidalgo County,TX,Texas,City,26.20341,-98.23001,956,140269,42225,44254,151143159,1038050,America/Chicago
+897,McKinney,Collin County,TX,Texas,City,33.19762,-96.61527,972,162898,50455,81459,163107658,1741187,America/Chicago
+898,Mesquite,Kaufman County/Dallas County,TX,Texas,City,32.76288,-96.58877,972,144788,47795,49604,122320600,479994,America/Chicago
+899,Midland,Martin County/Midland County,TX,Texas,City,32.02464,-102.11347,432,132950,43214,69173,192622240,460027,America/Chicago
+900,Mission,Hidalgo County,TX,Texas,City,26.21591,-98.32529,956,83298,24070,41818,92048427,177028,America/Chicago
+901,Missouri City,Fort Bend County/Harris County,TX,Texas,City,29.56294,-95.536,832,74139,23231,87955,74668457,3571457,America/Chicago
+902,New Braunfels,Comal County/Guadalupe County,TX,Texas,City,29.69931,-98.11513,830,70543,22361,59721,116574111,1011140,America/Chicago
+903,North Richland Hills,Tarrant County,TX,Texas,City,32.8343,-97.2289,682,69204,24963,63766,46956207,113480,America/Chicago
+904,Odessa,Midland County/Ector County,TX,Texas,City,31.88378,-102.34106,432,118968,39057,59337,117009169,667150,America/Chicago
+905,Pasadena,Harris County,TX,Texas,City,29.69106,-95.2091,832,153784,49256,48004,112645407,3870729,America/Chicago
+906,Pearland,Fort Bend County/Harris County/Brazoria County,TX,Texas,City,29.55576,-95.32307,832,108821,34776,95972,119994309,454012,America/Chicago
+907,Pflugerville,Williamson County/Travis County,TX,Texas,City,30.455,-97.60847,512,57122,18606,76459,59105389,29870,America/Chicago
+908,Pharr,Hidalgo County,TX,Texas,City,26.1948,-98.18362,956,76538,20402,34708,61000341,71524,America/Chicago
+909,Plano,Collin County/Denton County,TX,Texas,City,33.05077,-96.74794,972,283558,103937,83793,185617682,927319,America/Chicago
+910,Port Arthur,Orange County/Jefferson County,TX,Texas,City,29.8334,-93.96632,409,55340,19806,32863,199226756,174180228,America/Chicago
+911,Richardson,Collin County/Dallas County,TX,Texas,City,32.97229,-96.70807,972,110815,40020,72427,73982785,234329,America/Chicago
+912,Round Rock,Williamson County/Travis County,TX,Texas,City,30.52524,-97.66595,512,115997,35580,72412,92117027,781179,America/Chicago
+913,Rowlett,Rockwall County/Dallas County,TX,Texas,City,32.91592,-96.54867,972,60236,18733,83416,54099362,189991,America/Chicago
+914,San Angelo,Tom Green County,TX,Texas,City,31.46377,-100.43704,325,100450,36409,44802,155255892,5940332,America/Chicago
+915,San Antonio,Bexar County/Comal County/Medina County,TX,Texas,City,29.4724,-98.52514,210,1469845,488645,46744,1193951388,14825948,America/Chicago
+916,San Marcos,Caldwell County/Hays County/Guadalupe County,TX,Texas,City,29.8729,-97.93773,512,60684,20155,28923,88382513,343883,America/Chicago
+917,Spring,Harris County,TX,Texas,CDP,30.07994,-95.41716,832,54992,18653,66484,58185801,914759,America/Chicago
+918,Sugar Land,Fort Bend County,TX,Texas,City,29.61968,-95.63495,832,88156,27587,104939,87000646,5422337,America/Chicago
+919,Temple,Bell County,TX,Texas,City,31.09823,-97.34278,254,72277,25204,47475,181451278,12464194,America/Chicago
+920,The Woodlands,Harris County/Montgomery County,TX,Texas,CDP,30.17256,-95.50981,832,102911,38114,109917,111856589,1380351,America/Chicago
+921,Tyler,Smith County,TX,Texas,City,32.35126,-95.30106,903,103700,37644,42840,146667943,1327654,America/Chicago
+922,Victoria,Victoria County,TX,Texas,City,28.80527,-97.0036,361,67574,23843,48658,95894267,522335,America/Chicago
+923,Waco,McLennan County,TX,Texas,City,31.54933,-97.14667,254,132356,46719,33147,230561142,31850141,America/Chicago
+924,Wichita Falls,Wichita County,TX,Texas,City,33.91371,-98.49339,940,104710,37200,44543,187027492,61486,America/Chicago
+925,Layton,Davis County,UT,Utah,City,41.06022,-111.97105,385,74143,22209,69408,57235335,444235,America/Denver
+926,Lehi,Utah County,UT,Utah,City,40.39162,-111.85077,385,58486,13732,77662,71482592,950026,America/Denver
+927,Logan,Cache County,UT,Utah,City,41.73549,-111.83439,435,50371,15855,36032,45471656,1516617,America/Denver
+928,Millcreek,Salt Lake County,UT,Utah,CDP,40.68689,-111.87549,385,63311,23686,57672,33565382,0,America/Denver
+929,Ogden,Weber County,UT,Utah,City,41.223,-111.97383,385,85444,30016,41036,70578978,8202,America/Denver
+930,Orem,Utah County,UT,Utah,City,40.2969,-111.69465,385,94457,26149,55166,47854323,0,America/Denver
+931,Provo,Utah County,UT,Utah,City,40.23384,-111.65853,385,115264,32506,41291,107922719,6474977,America/Denver
+932,Salt Lake City,Salt Lake County,UT,Utah,City,40.76078,-111.89105,385,192672,75330,47243,288044514,1216737,America/Denver
+933,Sandy,Salt Lake County,UT,Utah,City,40.59161,-111.8841,385,93613,29010,79491,61218442,28350,America/Denver
+934,South Jordan,Salt Lake County,UT,Utah,City,40.56217,-111.92966,385,66648,16748,94183,57533764,228038,America/Denver
+935,St. George,Washington County,UT,Utah,City,37.10415,-113.58412,435,80202,26136,49614,197739523,1146051,America/Denver
+936,Taylorsville,Salt Lake County,UT,Utah,City,40.66772,-111.93883,385,60514,19443,58524,28105842,0,America/Denver
+937,West Jordan,Salt Lake County,UT,Utah,City,40.60967,-111.9391,385,111946,31742,68442,83717638,0,America/Denver
+938,West Valley City,Salt Lake County,UT,Utah,City,40.69161,-112.00105,385,136208,36213,52534,91854060,136726,America/Denver
+939,Alexandria,Alexandria city,VA,Virginia,City,38.80484,-77.04692,571,153511,66879,89134,38977688,1127171,America/New York
+940,Arlington,Arlington County,VA,Virginia,CDP,38.890390000000004,-77.08414,571,220173,98441,105763,67318429,244142,America/New York
+941,Centreville,Fairfax County,VA,Virginia,CDP,38.84039,-77.42888,571,73677,24618,105278,30936668,299660,America/New York
+942,Chesapeake,Chesapeake city,VA,Virginia,City,36.81904,-76.27494,757,235429,81518,68620,876737780,32210024,America/New York
+943,Dale City,Prince William County,VA,Virginia,CDP,38.63706,-77.31109,571,70381,20711,85462,36871510,45321,America/New York
+944,Hampton,Hampton city,VA,Virginia,City,37.02987,-76.34522,757,136454,52940,49190,133308913,219591352,America/New York
+945,Harrisonburg,Harrisonburg city,VA,Virginia,City,38.44957,-78.86892,540,52538,16409,38750,44889775,149942,America/New York
+946,Leesburg,Loudoun County,VA,Virginia,Town,39.11566,-77.5636,571,51209,15673,103238,32063417,183188,America/New York
+947,Lynchburg,Lynchburg city,VA,Virginia,City,37.41375,-79.14225,804,79812,28528,39589,127241541,1343203,America/New York
+948,Newport News,Newport News city,VA,Virginia,City,36.97876,-76.428,757,182385,69073,50077,178921044,130901482,America/New York
+949,Norfolk,Norfolk city,VA,Virginia,City,36.84681,-76.28522,757,246393,87045,44480,137985835,111697132,America/New York
+950,Portsmouth,Portsmouth city,VA,Virginia,City,36.83543,-76.29827,757,96201,36757,45676,86247836,34658655,America/New York
+951,Reston,Fairfax County,VA,Virginia,CDP,38.96872,-77.3411,571,59217,25324,110401,39692003,838593,America/New York
+952,Richmond,Richmond city,VA,Virginia,City,37.55376,-77.46026,804,220289,87224,40758,154942138,6879776,America/New York
+953,Roanoke,Roanoke city,VA,Virginia,City,37.27097,-79.94143,540,99897,42239,39930,110141397,882886,America/New York
+954,Suffolk,Suffolk city,VA,Virginia,City,36.72821,-76.58356,757,88161,30990,65499,1033802700,77060544,America/New York
+955,Virginia Beach,Virginia Beach city,VA,Virginia,City,36.85293,-75.97799,757,452745,166242,66634,633821720,654694207,America/New York
+956,Auburn,King County/Pierce County,WA,Washington,City,47.30377,-122.21,253,77006,27280,59347,76842195,555761,America/Los Angeles
+957,Bellevue,King County,WA,Washington,City,47.61038,-122.20068,425,139820,54216,94638,86712345,649599,America/Los Angeles
+958,Bellingham,Whatcom County,WA,Washington,City,48.75955,-122.48822,360,85146,33764,43536,71709769,6855426,America/Los Angeles
+959,Burien,King County,WA,Washington,City,47.47038,-122.34679,206,50467,18273,53712,26042893,169931,America/Los Angeles
+960,Everett,Snohomish County,WA,Washington,City,47.97898,-122.20208,425,108010,42079,49578,86145342,38944936,America/Los Angeles
+961,Federal Way,King County,WA,Washington,City,47.32232,-122.31262,253,95171,34117,55673,57690704,530889,America/Los Angeles
+962,Kennewick,Benton County,WA,Washington,City,46.21125,-119.13723,509,78896,27457,51661,70996558,3663434,America/Los Angeles
+963,Kent,King County,WA,Washington,City,47.38093,-122.23484,253,126952,42233,60191,87393046,1737187,America/Los Angeles
+964,Kirkland,King County,WA,Washington,City,47.68149,-122.20874,425,87281,35367,92127,46148574,31229,America/Los Angeles
+965,Lakewood,Pierce County,WA,Washington,City,47.17176,-122.51846,253,59829,24140,44902,44499801,4569016,America/Los Angeles
+966,Marysville,Snohomish County,WA,Washington,City,48.05176,-122.17708,360,66773,22653,65434,53590066,675885,America/Los Angeles
+967,Olympia,Thurston County,WA,Washington,City,47.03787,-122.9007,360,50302,20870,53617,47142335,4835501,America/Los Angeles
+968,Pasco,Franklin County,WA,Washington,City,46.23958,-119.10057,509,69451,19522,55319,83594137,9207091,America/Los Angeles
+969,Redmond,King County,WA,Washington,City,47.67399,-122.12151,425,60598,23389,103409,42671236,27137,America/Los Angeles
+970,Renton,King County,WA,Washington,City,47.48288,-122.21707,425,100242,37994,64802,60663567,511360,America/Los Angeles
+971,Richland,Benton County,WA,Washington,City,46.28569,-119.28446,509,54248,20792,67483,100572227,9068629,America/Los Angeles
+972,Sammamish,King County,WA,Washington,City,47.64177,-122.0804,425,52253,16201,147349,52767496,9323112,America/Los Angeles
+973,Seattle,King County,WA,Washington,City,47.60621,-122.33207,206,684451,296633,70594,217138889,152104725,America/Los Angeles
+974,Shoreline,King County,WA,Washington,City,47.75565,-122.34152,206,55439,21668,66020,30233626,59419,America/Los Angeles
+975,South Hill,Pierce County,WA,Washington,CDP,47.14121,-122.27012,253,54878,18435,75241,47548884,217658,America/Los Angeles
+976,Spokane,Spokane County,WA,Washington,City,47.65878,-117.42605,509,213272,87623,42386,178034003,1984449,America/Los Angeles
+977,Spokane Valley,Spokane County,WA,Washington,City,47.67323,-117.23937,509,94919,37424,47430,97672407,746873,America/Los Angeles
+978,Tacoma,Pierce County,WA,Washington,City,47.25288,-122.44429,253,207948,79026,52042,128821146,32854483,America/Los Angeles
+979,Vancouver,Clark County,WA,Washington,City,45.63873,-122.66149,360,172860,66417,50626,121557343,9484341,America/Los Angeles
+980,Yakima,Yakima County,WA,Washington,City,46.60207,-120.5059,509,93701,33081,40726,71895803,1092678,America/Los Angeles
+981,Appleton,Outagamie County/Calumet County/Winnebago County,WI,Wisconsin,City,44.27795,-88.38826,920,74139,28447,53588,63411082,1264402,America/Chicago
+982,Eau Claire,Eau Claire County/Chippewa County,WI,Wisconsin,City,44.81966,-91.49488,715,67778,27104,43541,84128979,5450162,America/Chicago
+983,Green Bay,Brown County,WI,Wisconsin,City,44.51916,-88.01983,920,105207,42308,42826,117673093,27054147,America/Chicago
+984,Janesville,Rock County,WI,Wisconsin,City,42.68279,-89.01872,608,64123,25930,49001,87472640,1558124,America/Chicago
+985,Kenosha,Kenosha County,WI,Wisconsin,City,42.58474,-87.82119,262,99858,37107,49160,71902242,300366,America/Chicago
+986,La Crosse,La Crosse County,WI,Wisconsin,City,43.80136,-91.23958,608,52306,20689,40725,56425426,5289707,America/Chicago
+987,Madison,Dane County,WI,Wisconsin,City,43.07305,-89.40123,608,248951,104087,54896,199339279,44491310,America/Chicago
+988,Milwaukee,Milwaukee County/Washington County/Waukesha County,WI,Wisconsin,City,43.06335,-87.9667,414,600155,230807,35958,249128870,1720458,America/Chicago
+989,Oshkosh,Winnebago County,WI,Wisconsin,City,44.02471,-88.54261,920,66555,26152,42650,69403360,2631938,America/Chicago
+990,Racine,Racine County,WI,Wisconsin,City,42.72613,-87.78285,262,77742,29851,41455,40111757,8282116,America/Chicago
+991,Waukesha,Waukesha County,WI,Wisconsin,City,43.01168,-88.23148,262,71970,28331,59547,65856921,700602,America/Chicago
+992,West Allis,Milwaukee County,WI,Wisconsin,City,43.01668,-88.00703,414,60620,27457,45221,29480532,60789,America/Chicago
+993,Casper,Natrona County,WY,Wyoming,City,42.86663,-106.31308,307,60285,23814,57790,68507280,911081,America/Denver
+994,Cheyenne,Laramie County,WY,Wyoming,City,41.13998,-104.82025,307,63335,25130,58219,69964749,282335,America/Denver
