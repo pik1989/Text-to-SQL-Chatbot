@@ -32,34 +32,14 @@ To get started with the Text to SQL Chatbot, follow these steps:
    cd Text-to-SQL-Chatbot
    ```
 
-2. **Install Required Packages**:
-   Make sure you have Python installed. Then, install the necessary libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Set Up MySQL**:
+2. **Set Up MySQL**:
    - Create a MySQL database and tables as specified in the project.
    - Load your data from Excel sheets into the MySQL database.
 
-4. **Configure API Keys**:
+3. **Configure API Keys**:
    Ensure you have the necessary API keys for the LLM you will be using (e.g., Google Gemini).
 
- 🚀 Usage
-1. **Run the Application**:
-   Start the application in your Python environment:
-   ```bash
-   python app.py
-   ```
-
-2. **Interact with the Chatbot**:
-   - Open your terminal or command prompt.
-   - Ask questions related to your database in natural language, e.g., "What is the total revenue for 2025?"
-
-3. **Receive Results**:
-   The chatbot will return the results in a user-friendly format.
-
- 🗼 Architecture
+  🗼 Architecture
 The architecture of the Text to SQL Chatbot consists of the following components:
 
 - **Data Source**: Excel sheets containing raw data.
