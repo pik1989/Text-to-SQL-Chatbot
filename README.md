@@ -3,7 +3,7 @@
 
 Welcome to the **Text to SQL Chatbot** project! This project aims to bridge the gap between non-technical team members and database interactions, allowing users to query databases using natural language instead of SQL.
 
-## 📚 Table of Contents
+ 📚 Table of Contents
 - [📖 Project Overview](#project-overview)
 - [🔧 Features](#features)
 - [🛠️ Installation](#installation)
@@ -13,18 +13,18 @@ Welcome to the **Text to SQL Chatbot** project! This project aims to bridge the 
 - [📝 Future Work](#future-work)
 - [📄 License](#license)
 
-## 📖 Project Overview
+ 📖 Project Overview
 In many companies, team members may need access to data stored in SQL databases but lack the technical skills to write SQL queries. This chatbot allows users to ask questions in natural language, converts those questions into SQL queries, and retrieves results from the database.
 
 This project is applicable in various domains, including healthcare, retail, and finance.
 
-## 🔧 Features
+ 🔧 Features
 - **Natural Language Processing**: Converts user queries into SQL statements.
 - **Database Interaction**: Connects to MySQL databases to fetch results.
 - **User-Friendly Output**: Provides results back to the user in natural language.
 - **End-to-End Solution**: From data preparation to interaction with the chatbot.
 
-## 🛠️ Installation
+ 🛠️ Installation
 To get started with the Text to SQL Chatbot, follow these steps:
 
 1. **Clone the Repository**:
@@ -46,7 +46,7 @@ To get started with the Text to SQL Chatbot, follow these steps:
 4. **Configure API Keys**:
    Ensure you have the necessary API keys for the LLM you will be using (e.g., Google Gemini).
 
-## 🚀 Usage
+ 🚀 Usage
 1. **Run the Application**:
    Start the application in your Python environment:
    ```bash
@@ -60,7 +60,7 @@ To get started with the Text to SQL Chatbot, follow these steps:
 3. **Receive Results**:
    The chatbot will return the results in a user-friendly format.
 
-## 🗼 Architecture
+ 🗼 Architecture
 The architecture of the Text to SQL Chatbot consists of the following components:
 
 - **Data Source**: Excel sheets containing raw data.
@@ -70,19 +70,19 @@ The architecture of the Text to SQL Chatbot consists of the following components
 
 ![Architecture Diagram](path/to/your/architecture-diagram.png)
 
-## 📊 Evaluation
+ 📊 Evaluation
 The performance of the chatbot can be evaluated using various metrics, including:
 - **Accuracy**: How accurately the LLM generates the correct SQL queries.
 - **Response Time**: The time taken to return results after a query is made.
 - **User Feedback**: Collecting feedback from users on the clarity and usefulness of responses.
 
-## 📝 Future Work
+ 📝 Future Work
 There are several ways to enhance this project:
 - **Multiple LLMs**: Experiment with other large language models for better accuracy.
 - **User Interface**: Develop a web interface using Flask or Streamlit for easier interaction.
 - **Deployment**: Host the application on cloud platforms to make it accessible to a wider audience.
 
-## 📄 License
+ 📄 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ---
@@ -90,7 +90,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 Feel free to contribute to this project or reach out with any questions! Happy coding! 🎉
 ```
 
-### Notes:
+# Notes:
 - Replace `pik1989` in the clone command with your actual GitHub username.
 - Update the path to the architecture diagram image in the Markdown.
 - Customize any sections as needed to better fit your project specifics.
